@@ -1,5 +1,5 @@
 import React from "react";
-const myFont = localFont({ src: "../../Fonts/Raleway-Medium.ttf" });
+const myFont = localFont({ src: "../../fonts/Raleway-Medium.ttf" });
 import localFont from "next/font/local";
 import "../../app/globals.css";
 import MainLogo from "../../public/rfces logo.png";

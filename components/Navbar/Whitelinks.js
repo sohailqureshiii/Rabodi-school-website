@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React, { useState } from "react";
 import MainLogo from "../../public/rfces logo.png";
-const myFont = localFont({ src: "../../Fonts/Raleway-Medium.ttf" });
+const myFont = localFont({ src: "../../fonts/Raleway-Medium.ttf" });
 import localFont from "next/font/local";
 import Link from "next/link";
 import NavModal from "../NavBarModal/NavBarModal";
