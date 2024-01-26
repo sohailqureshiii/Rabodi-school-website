@@ -4,7 +4,6 @@ import React from "react";
 import "../app/globals.css";
 import localFont from "next/font/local";
 const myFont = localFont({ src: "../Fonts/Raleway-Medium.ttf" });
-import BackgroundImage from "../public/red-buildings-households.jpg";
 import LeftImage from "../public/leftuievhjeak.png";
 import Calender from "../public/calendar.svg";
 import Trophy from "../public/trophy.svg";
