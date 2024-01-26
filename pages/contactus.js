@@ -2,7 +2,7 @@ import Navbar from "@/components/Navbar/navbar";
 import React, { useState } from "react";
 import "../app/globals.css";
 import localFont from "next/font/local";
-const myFont = localFont({ src: "../Fonts/Raleway-Medium.ttf" });
+const myFont = localFont({ src: "../fonts/Raleway-Medium.ttf" });
 import CallSvg from "../public/phone-call.svg";
 import LinkedIn from "../public/linkedin.svg";
 import Twitter from "../public/social.svg";

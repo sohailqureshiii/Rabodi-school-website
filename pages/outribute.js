@@ -3,7 +3,7 @@ import Image from "next/image";
 import React from "react";
 import "../app/globals.css";
 import localFont from "next/font/local";
-const myFont = localFont({ src: "../Fonts/Raleway-Medium.ttf" });
+const myFont = localFont({ src: "../fonts/Raleway-Medium.ttf" });
 import MaaziSitaare from "../public/maazi_sitare.jpg";
 import Footer from "@/components/Footer/footer";
 

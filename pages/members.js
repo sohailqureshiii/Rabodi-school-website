@@ -2,7 +2,7 @@ import Navbar from "@/components/Navbar/navbar";
 import React from "react";
 import "../app/globals.css";
 import localFont from "next/font/local";
-const myFont = localFont({ src: "../Fonts/Raleway-Medium.ttf" });
+const myFont = localFont({ src: "../fonts/Raleway-Medium.ttf" });
 import Tearchers from "../public/hijab_icon.png";
 import TeSir from "../public/teacher_boy_icon.png";
 import Asimjaved from "../public/asimjaved.jpg";

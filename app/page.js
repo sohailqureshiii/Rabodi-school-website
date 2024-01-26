@@ -1,7 +1,7 @@
 import Navbar from "@/components/Navbar/navbar";
 import Image from "next/image";
 import styles from "./page.module.css";
-const myFont = localFont({ src: "../Fonts/Raleway-Medium.ttf" });
+const myFont = localFont({ src: "../fonts/Raleway-Medium.ttf" });
 import BackGorundImage from "../public/red-buildings-households.jpg";
 import StudentsOne from "../public/young-lady-hijab-looking-sae-seaside_114579-3989.jpg";
 import Studenttwo from "../public/muslim-scientist-boy-cartoon-character-sticker_1308-80674.jpg";

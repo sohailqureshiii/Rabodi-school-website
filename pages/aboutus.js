@@ -3,7 +3,7 @@ import Image from "next/image";
 import React from "react";
 import "../app/globals.css";
 import localFont from "next/font/local";
-const myFont = localFont({ src: "../Fonts/Raleway-Medium.ttf" });
+const myFont = localFont({ src: "../fonts/Raleway-Medium.ttf" });
 import LeftImage from "../public/leftuievhjeak.png";
 import Calender from "../public/calendar.svg";
 import Trophy from "../public/trophy.svg";

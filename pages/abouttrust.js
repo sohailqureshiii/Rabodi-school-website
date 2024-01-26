@@ -2,7 +2,7 @@ import Image from "next/image";
 import React from "react";
 import "../app/globals.css";
 import localFont from "next/font/local";
-const myFont = localFont({ src: "../Fonts/Raleway-Medium.ttf" });
+const myFont = localFont({ src: "../fonts/Raleway-Medium.ttf" });
 import Navbar from "@/components/Navbar/navbar";
 import LeftImaheatjd from "../public/people-standing-office-holding-hands-together.jpg";
 import SecoundLeftImaheatjd from "../public/40981.jpg";

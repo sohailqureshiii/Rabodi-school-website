@@ -3,7 +3,7 @@ import React from "react";
 import "../app/globals.css";
 import localFont from "next/font/local";
 import Image from "next/image";
-const myFont = localFont({ src: "../Fonts/Raleway-Medium.ttf" });
+const myFont = localFont({ src: "../fonts/Raleway-Medium.ttf" });
 import ScienceLab from "../public/sciencelab.jpg";
 import Camera from "../public/ccvtv.jpg";
 import Elearn from "../public/elearn.jpg";
