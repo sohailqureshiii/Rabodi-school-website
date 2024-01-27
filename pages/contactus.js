@@ -47,7 +47,7 @@ const Contactus = () => {
                   src={CallSvg}
                   className="svg-at-sd-cntct-sectoi-dsjnmc"
                 />
-                <p className="secnd-aline-para-dkjsk">022-25429174</p>
+                <p className="secnd-aline-para-dkjsk">022-2542-9174</p>
                 <p className="asdf-cald-irjnascjnkwe-df">
                   Call us: Mon - Fri 9:00 - 19:00
                 </p>

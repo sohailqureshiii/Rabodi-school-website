@@ -19,6 +19,7 @@ import "../app/globals.css";
 import Footer from "@/components/Footer/footer";
 import ReactPlayer from "react-player";
 import BackgroundImage from "../public/red-buildings-households.jpg";
+import Link from "next/link";
 
 export default function Home() {
   return (
@@ -89,17 +90,19 @@ export default function Home() {
               </div>
               <div className="third-left-top-minus-sect" style={myFont.style}>
                 <div className="back-rnd-white-at-left-section">
-                  <p className="fc-facts-for-ajdksn">FUN FACTS ABOUT ED</p>
+                  <p className="fc-facts-for-ajdksn">Achievements So Far</p>
                   <div className="diply-cemntr-at-sction-for-whitelisb">
                     <div className="color-line-at-center-of-left-section"></div>
                   </div>
                   <div>
                     <p className="number-achienved-by-shools-sdjk">1997</p>
-                    <p className="secound-line-of-sleft-sdide">STUDENTS</p>
+                    <p className="secound-line-of-sleft-sdide">
+                      Year of Foundation
+                    </p>
                     <p className="para-at-side-ltions">
-                      students receiving
+                      Year of our
                       <br />
-                      financial aid
+                      School Foundation
                     </p>
                   </div>
                   <div>
@@ -141,13 +144,13 @@ export default function Home() {
         <div className="scrolling_text" style={myFont.style}>
           <div className="text">
             <span>Opening Hours : 07:00am to 05:30pm</span>
-            <span> Phone : 022-25429174</span>
+            <span> Phone : 022-2542-9174</span>
             <span> Email : rfces@gmail.com</span>
             <span> Address : Rehmat Ali Road, 1 Rabodi ,Thane(W)</span>
           </div>
           <div className="text">
             <span>Opening Hours : 07:00am to 05:30pm</span>
-            <span> Phone : 022-25429174</span>
+            <span> Phone : 022-2542-9174</span>
             <span> Email : rfces@gmail.com</span>
             <span> Address : REHMAT ALI ROAD, 1 RABODI ,THANE(W)</span>
           </div>
@@ -250,22 +253,25 @@ export default function Home() {
             >
               <div className="header-layout-at-main-section">
                 <h3 className="headr-in-front-of-image-section-inly">
-                  It's time to start
+                  We Have <br /> Experienced Faculty
                   <br />
-                  investing in yourself
+                  {/* investing in yourself */}
                 </h3>
-                <p className="parar-in-fnrt-of-img-section">
-                  choosen from over 100,000 online video course with new <br />
-                  addition published every month
-                </p>
+                <div className="srdf-efno-wonvsd-vjs">
+                  <p className="parar-in-fnrt-of-img-section">
+                    Our teachers are highly qualified and experienced, providing
+                    students with quality instruction and guidance.
+                  </p>
+                </div>
                 <div>
-                  <button
-                    className="btn-at-mange-secionsdk"
-                    style={myFont.style}
-                  >
-                    {" "}
-                    Find courses
-                  </button>
+                  <Link href={"/teacher"}>
+                    <button
+                      className="btn-at-mange-secionsdk"
+                      style={myFont.style}
+                    >
+                      Know More
+                    </button>
+                  </Link>
                 </div>
               </div>{" "}
             </div>
@@ -404,9 +410,7 @@ export default function Home() {
                   </p>
                   <div className="button-at-sjkbnsd">
                     <Image src={CallSvg} className="sertre-oriklf-aznsm" />
-                    <p className="number-phn-nmbr-sect-ssdjk">
-                      +32 123 456 789​
-                    </p>
+                    <p className="number-phn-nmbr-sect-ssdjk">022-2542-9174</p>
                   </div>
                 </div>
               </div>

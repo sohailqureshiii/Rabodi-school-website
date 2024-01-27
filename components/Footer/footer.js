@@ -41,7 +41,9 @@ const Footer = () => {
                 <p className="hedr-ilsjnnd-links-sdc">Contact Us</p>
                 <div className="btm-line-s-fhjjns-rjk"></div>
                 <div className="cntr-for-link-section-dje">
-                  <li className="links-at-ftr-st-sdjk">Phone : 022-25429174</li>
+                  <li className="links-at-ftr-st-sdjk">
+                    Phone : 022-2542-9174
+                  </li>
                   <li className="links-at-ftr-st-sdjk">
                     Email : rfces@gmail.com
                   </li>

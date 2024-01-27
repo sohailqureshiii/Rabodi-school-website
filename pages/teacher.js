@@ -337,9 +337,7 @@ const Teacher = () => {
                   </p>
                   <div className="button-at-sjkbnsd">
                     <Image src={CallSvg} className="sertre-oriklf-aznsm" />
-                    <p className="number-phn-nmbr-sect-ssdjk">
-                      +32 123 456 789​
-                    </p>
+                    <p className="number-phn-nmbr-sect-ssdjk">022-2542-9174</p>
                   </div>
                 </div>
               </div>

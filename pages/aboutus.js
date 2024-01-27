@@ -250,13 +250,13 @@ const aboutus = () => {
         <div className="scrolling_text" style={myFont.style}>
           <div className="text">
             <span>Opening Hours : 07:00am to 05:30pm</span>
-            <span> Phone : 022-25429174</span>
+            <span> Phone : 022-2542-9174</span>
             <span> Email : rfces@gmail.com</span>
             <span> Address : Rehmat Ali Road, 1 Rabodi ,Thane(W)</span>
           </div>
           <div className="text">
             <span>Opening Hours : 07:00am to 05:30pm</span>
-            <span> Phone : 022-25429174</span>
+            <span> Phone : 022-2542-9174</span>
             <span> Email : rfces@gmail.com</span>
             <span> Address : REHMAT ALI ROAD, 1 RABODI ,THANE(W)</span>
           </div>
@@ -279,9 +279,7 @@ const aboutus = () => {
                   </p>
                   <div className="button-at-sjkbnsd">
                     <Image src={CallSvg} className="sertre-oriklf-aznsm" />
-                    <p className="number-phn-nmbr-sect-ssdjk">
-                      +32 123 456 789​
-                    </p>
+                    <p className="number-phn-nmbr-sect-ssdjk">022-2542-9174</p>
                   </div>
                 </div>
               </div>

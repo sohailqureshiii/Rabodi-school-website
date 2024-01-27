@@ -258,10 +258,6 @@ li {
   text-align: center;
 }
 
-.back-toop-section-onlysjd {
-  /* margin-top: 5em; */
-}
-
 .headr-in-front-of-image-section-inly {
   color: #fff;
   font-size: 58px;
@@ -270,6 +266,12 @@ li {
 .parar-in-fnrt-of-img-section {
   padding-top: 20px;
   color: #ffffffc2;
+  width: 500px;
+}
+
+.srdf-efno-wonvsd-vjs {
+  display: flex;
+  justify-content: center;
 }
 
 .btn-at-mange-secionsdk {
@@ -280,6 +282,7 @@ li {
   padding: 12px 30px;
   border-radius: 8px;
   margin-top: 20px;
+  cursor: pointer;
 }
 
 .cntr-fc-xkjsjdn {
@@ -735,10 +738,6 @@ li {
 .fnt-hdr-snr-xjdk {
   color: #fff;
   font-size: 52px;
-}
-
-.dfgtgdf-bsdiuk-esdj {
-  /* margin-top: -20em; */
 }
 
 .mrgin-top-sijefj {
@@ -1308,6 +1307,9 @@ li {
   margin-top: 45px;
 }
 
+.usfjd-senjs-cdjsk {
+  margin-top: 45px;
+}
 /* ------ Teacherpage ------  */
 
 .teacher-ghrapic-imageskdsk {
@@ -1659,7 +1661,7 @@ li {
     display: block;
   }
   .third-left-top-minus-sect {
-    width: 95%;
+    width: 90%;
     margin: 15px;
     border-radius: 0;
   }
@@ -1680,7 +1682,7 @@ li {
   .cntrnr-fr-sub-sectios {
     width: 100%;
     margin-top: 1.5em;
-    padding: 2em;
+    padding: 1em;
   }
   .section-fourth-backgrnd-blckush-tyoe-sjnd {
     height: 100%;
@@ -1705,13 +1707,14 @@ li {
   }
   .fix-aoblsute-image-at-secoit {
     position: relative;
-    height: 15em;
+    height: 12em;
   }
   .flx-in-ftr-section-cntr {
     display: block;
   }
   .bur-colr-section-at-ssecound-sct {
-    padding: 5em 15px 3em 15px;
+    padding: 3em 15px 15px 15px;
+    margin-top: 45em;
   }
   .section-main-hdr-fr-wht-sec {
     font-size: 18px;
@@ -1719,11 +1722,19 @@ li {
   }
 
   .hone-section-at-rodn-skk {
-    font-size: 34px;
+    font-size: 32px;
   }
 
   .first-para-at-schl-sectio-sjkdjs {
     font-size: 14px;
+  }
+  .cntr-of-hdr-scoisd {
+    font-size: 36px;
+    padding: 15px;
+  }
+  .para-sectios-jkdms {
+    line-height: 25px;
+    font-size: 18px;
   }
   .scrolling_text {
     margin: 2em 0em 2em 0em;
@@ -1816,7 +1827,7 @@ li {
   }
   .left-img-fr-abt-us-image {
     width: 100%;
-    height: 25em;
+    height: 20em;
   }
   .flx-in-ffr-tw-ier-sdjnm {
     display: block;
@@ -1979,6 +1990,12 @@ li {
     font-size: 12px;
     line-height: 25px;
   }
+  .er-oeinckjas-ems {
+    padding-bottom: 9px;
+    font-size: 22px;
+    padding-top: 15px;
+    /* border-bottom: 1px solid #ffffff26; */
+  }
   .hdr-fr-this-scekja-kodklfm {
     padding-left: 10px;
     font-size: 32px;
@@ -2068,9 +2085,7 @@ li {
     padding: 15px;
     margin-top: 1em;
   }
-  .contrn-fr-img-dn-lab-oim-facilities {
-    width: 100%;
-  }
+
   .Science-lab-image-at-skdsj {
     width: 100%;
   }
@@ -2082,7 +2097,8 @@ li {
     height: 17em;
   }
   .contrn-fr-img-dn-lab-oim-facilities {
-    margin-bottom: 1em;
+    margin-bottom: 2em;
+    width: 100%;
   }
   .bigger-cntr-at-sectonsk {
     margin-bottom: 1em;
@@ -2168,6 +2184,12 @@ li {
   .esrthgrefsdv-ejhwk {
     height: 16em;
     margin-top: 5em;
+    width: 100%;
+  }
+  .usfjd-senjs-cdjsk {
+    margin-top: 75px;
+  }
+  .parar-in-fnrt-of-img-section {
     width: 100%;
   }
 }

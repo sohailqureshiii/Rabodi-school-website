@@ -78,7 +78,7 @@ const NavModal = (props) => {
               <a href="/teacher">
                 <p className="links-for-mobile-view-innavbar-modla">Teachers</p>
               </a>
-              <a href="/facilities">
+              <a href="/contactus">
                 <p className="links-for-mobile-view-innavbar-modla">
                   Contact Us
                 </p>

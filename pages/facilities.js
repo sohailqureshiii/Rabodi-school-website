@@ -31,7 +31,7 @@ const Facilities = () => {
       </div>
       <div className="displayflexat-ns" style={myFont.style}>
         <div className="header-layout-at-main-section">
-          <div className="cla-tofpos-djksfssam">
+          <div className="usfjd-senjs-cdjsk">
             <div className="flx-in-for-ht-lne-area-djks">
               <div className="ht-lne-insd-abt-sjhs"></div>
             </div>
