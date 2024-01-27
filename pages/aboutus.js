@@ -15,40 +15,19 @@ import BackGrndimage from "../public/bg-kids2.jpg";
 import CallSvg from "../public/phone-call.svg";
 import WhiteNavbar from "@/components/Navbar/Whitelinks";
 import Footer from "@/components/Footer/footer";
-import Navbar from "@/components/Navbar/navbar";
+import BackGrndimagetwo from "../public/IMG_2458 (1).jpg";
+import BackGrndimagethree from "../public/IMG_2458 (1).jpg";
+import BackGrndimagefour from "../public/IMG_2460 (2).jpg";
+import BackGrndimagefive from "../public/IMG_2461 (1).jpg";
+import BackGrndimagesix from "../public/IMG_2462 (1).jpg";
+import BackGrndimageseven from "../public/IMG_2463 (1).jpg";
+import BackGrndimageeight from "../public/IMG_2464 (1).jpg";
 
 const aboutus = () => {
   return (
     <>
       <WhiteNavbar />
-      {/* <div>
-        <Image src={BackgroundImage} className="hjdfeokfl-sdfded" />
-        <div className="overlay-section-br-blackishinsh" style={myFont.style}>
-          <div className="displayflexat-ns">
-            <div className="header-layout-at-main-section">
-              <div className="top-fr-bckrnd-sections-jkdf">
-                <h3 className="whte-first-hdr-welcome-secjkm">
-                  Hello! Welcome to
-                </h3>
-                <h1 className="hdr-section-one-areas-top-schl-name">
-                  Rabodi Friend Circle Urdu High School
-                </h1>
-                <p className="para-at-section-ablout-us-riekljm">
-                  Our educational era started with Pre-Primary school named
-                  Rabodi Friends’ Circle Primary School in the year 1999 and the
-                  Primary School got operational from June 7, 2001. Our primary
-                  section was named Shafi Burondkar Primary School, with just 30
-                  headcounts back then, which has experienced a tremendous
-                  growth over the ages.
-                </p>
-                <button className="cntc-us-btn-at-abt-sct-pge">
-                  Contact Us
-                </button>
-              </div>
-            </div>{" "}
-          </div>
-        </div>
-      </div> */}
+
       <>
         <div className="video-section-at-top-down-navber-Ads">
           <div className="displayflexat-ns">
@@ -262,6 +241,54 @@ const aboutus = () => {
           </div>
         </div>
       </>
+      <div className="fl-bakjc-weoundc-sdcbn">
+        <div className="displayflexat-ns">
+          <div className="header-layout-at-main-section" style={myFont.style}>
+            <div className="flx-two-images-at-wabout-aectionsdll">
+              <div className="border-for-each-image-at-about-section-sdcjk">
+                <Image
+                  src={BackGrndimagethree}
+                  className="image-as-galleryy-pics-oin-about-csk"
+                />
+              </div>
+              <div className="border-for-each-image-at-about-section-sdcjk">
+                <Image
+                  src={BackGrndimagefive}
+                  className="image-as-galleryy-pics-oin-about-csk"
+                />
+              </div>
+            </div>
+            <div className="flx-two-images-at-wabout-aectionsdll">
+              <div className="border-for-each-image-at-about-section-sdcjk">
+                <Image
+                  src={BackGrndimagefour}
+                  className="image-as-galleryy-pics-oin-about-csk"
+                />
+              </div>
+              <div className="border-for-each-image-at-about-section-sdcjk">
+                <Image
+                  src={BackGrndimagesix}
+                  className="image-as-galleryy-pics-oin-about-csk"
+                />
+              </div>{" "}
+            </div>
+            <div className="flx-two-images-at-wabout-aectionsdll">
+              <div className="border-for-each-image-at-about-section-sdcjk">
+                <Image
+                  src={BackGrndimageseven}
+                  className="image-as-galleryy-pics-oin-about-csk"
+                />
+              </div>
+              <div className="border-for-each-image-at-about-section-sdcjk">
+                <Image
+                  src={BackGrndimageeight}
+                  className="image-as-galleryy-pics-oin-about-csk"
+                />
+              </div>{" "}
+            </div>
+          </div>
+        </div>
+      </div>
       <>
         <div>
           <Image src={BackGrndimage} className="fix-aoblsute-image-at-secoit" />

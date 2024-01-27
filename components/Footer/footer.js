@@ -7,6 +7,7 @@ import LinkedIn from "../../public/linkedin.svg";
 import Twitter from "../../public/social.svg";
 import Facebook from "../../public/facebook.svg";
 import Image from "next/image";
+import Link from "next/link";
 const Footer = () => {
   return (
     <>
@@ -21,20 +22,39 @@ const Footer = () => {
                 <p className="hedr-ilsjnnd-links-sdc">Quick Links</p>
                 <div className="btm-line-s-fhjjns-rjk"></div>
                 <div className="cntr-for-link-section-dje">
-                  <li className="links-at-ftr-st-sdjk">Home</li>
-                  <li className="links-at-ftr-st-sdjk">About</li>
-                  <li className="links-at-ftr-st-sdjk">Teachers</li>
-                  <li className="links-at-ftr-st-sdjk">Contact</li>
+                  <Link href={"/"}>
+                    <li className="links-at-ftr-st-sdjk">Home</li>
+                  </Link>
+                  <Link href={"/aboutus"}>
+                    <li className="links-at-ftr-st-sdjk">About</li>
+                  </Link>
+
+                  <Link href={"/teacher"}>
+                    <li className="links-at-ftr-st-sdjk">Teachers</li>
+                  </Link>
+
+                  <Link href={"/contactus"}>
+                    <li className="links-at-ftr-st-sdjk">Contact</li>
+                  </Link>
                 </div>
               </div>
               <div>
                 <p className="hedr-ilsjnnd-links-sdc">Useful Links</p>
                 <div className="btm-line-s-fhjjns-rjk"></div>
                 <div className="cntr-for-link-section-dje">
-                  <li className="links-at-ftr-st-sdjk">Ask Question</li>
-                  <li className="links-at-ftr-st-sdjk">Send Feedback</li>
-                  <li className="links-at-ftr-st-sdjk">Privacy Policy</li>
-                  <li className="links-at-ftr-st-sdjk">Terms and Condition</li>
+                  <Link href={"/facilities"}>
+                    <li className="links-at-ftr-st-sdjk">Facilities</li>
+                  </Link>
+                  <Link href={"/abouttrust"}>
+                    <li className="links-at-ftr-st-sdjk">Committee</li>
+                  </Link>
+                  <Link href={"/contactus"}>
+                    <li className="links-at-ftr-st-sdjk">Ask Question</li>
+                  </Link>
+
+                  <Link href={"/contactus"}>
+                    <li className="links-at-ftr-st-sdjk">FAQ</li>
+                  </Link>
                 </div>
               </div>
               <div>

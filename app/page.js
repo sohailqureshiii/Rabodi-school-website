@@ -47,9 +47,11 @@ export default function Home() {
                   headcounts back then, which has experienced a tremendous
                   growth over the ages.
                 </p>
-                <button className="cntc-us-btn-at-abt-sct-pge">
-                  Contact Us
-                </button>
+                <Link href={"/contactus"}>
+                  <button className="cntc-us-btn-at-abt-sct-pge">
+                    Contact Us
+                  </button>
+                </Link>
               </div>
             </div>{" "}
           </div>
