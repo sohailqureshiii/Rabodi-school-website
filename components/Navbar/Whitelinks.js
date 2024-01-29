@@ -42,6 +42,9 @@ const WhiteNavbar = () => {
               <Link href={"/members"}>
                 <li className="list-navifgation-slind-sdjsa">Trust Member</li>
               </Link>
+              <Link href={"/outribute"}>
+                <li className="list-navifgation-slind-sdjsa">Our Tribute</li>
+              </Link>
             </div>
           </DropdownMenu>
           <Link href={"/teacher"}>

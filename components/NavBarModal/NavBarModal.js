@@ -73,6 +73,9 @@ const NavModal = (props) => {
                 <a href="/members">
                   <li className="er-oeinckjas-ems">Trust Member</li>
                 </a>
+                <a href="/outribute">
+                  <li className="er-oeinckjas-ems">Our Tribute</li>
+                </a>
               </p>
 
               <a href="/teacher">
