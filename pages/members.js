@@ -18,7 +18,9 @@ import Munir from "../public/Munirsk.jpg";
 import Atifshak from "../public/Aatifshaikkj.jpg";
 import Shanuqureshi from "../public/Shanuqureshi.jpg";
 import Hamidmansoori from "../public/Hamidmansoori.jpg";
+import Abdulh from "../public/Abdul hai (1).jpg";
 import Anisghawte from "../public/Anisghawte.jpg";
+import Majeeb from "../public/MajeedB.jpg";
 import TeacherBoy from "../public/teacher_boy_icon.svg";
 import Image from "next/image";
 import Footer from "@/components/Footer/footer";
@@ -56,7 +58,7 @@ const Members = () => {
               <div className="flx-in-for-responcve-view-only">
                 <div className="wsdhjed-weojmzs-skadf">
                   <Image
-                    src={TeacherBoy}
+                    src={Majeeb}
                     className="tesgeres-sdijdksmadoe-sodksm"
                   />
                 </div>
@@ -119,7 +121,7 @@ const Members = () => {
               <div className="flx-in-for-responcve-view-only">
                 <div className="wsdhjed-weojmzs-skadf">
                   <Image
-                    src={TeacherBoy}
+                    src={Hamidmansoori}
                     className="tesgeres-sdijdksmadoe-sodksm"
                   />
                 </div>
@@ -132,10 +134,7 @@ const Members = () => {
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
                 <div className="wsdhjed-weojmzs-skadf">
-                  <Image
-                    src={TeacherBoy}
-                    className="tesgeres-sdijdksmadoe-sodksm"
-                  />
+                  <Image src={Munir} className="tesgeres-sdijdksmadoe-sodksm" />
                 </div>
               </div>
               <h2 className="texher-name-asec-tkdjs">
@@ -147,7 +146,7 @@ const Members = () => {
               <div className="flx-in-for-responcve-view-only">
                 <div className="wsdhjed-weojmzs-skadf">
                   <Image
-                    src={TeacherBoy}
+                    src={Mateen}
                     className="tesgeres-sdijdksmadoe-sodksm"
                   />
                 </div>
@@ -187,7 +186,7 @@ const Members = () => {
               <div className="flx-in-for-responcve-view-only">
                 <div className="wsdhjed-weojmzs-skadf">
                   <Image
-                    src={TeacherBoy}
+                    src={Abdulh}
                     className="tesgeres-sdijdksmadoe-sodksm"
                   />
                 </div>
