@@ -224,7 +224,7 @@ const Members = () => {
               <div className="flx-in-for-responcve-view-only">
                 <div className="wsdhjed-weojmzs-skadf">
                   <Image
-                    src={TeacherBoy}
+                    src={Shanuqureshi}
                     className="tesgeres-sdijdksmadoe-sodksm"
                   />
                 </div>
@@ -266,19 +266,9 @@ const Members = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Mohammed Bilal</h2>
-              <p className="tecjr-gradutaion-seuhrk">Member</p>
-            </div>
-            <div className="cntr-a-dhjs-ewoiknxz-zsd">
-              <div className="flx-in-for-responcve-view-only">
-                <div className="wsdhjed-weojmzs-skadf">
-                  <Image
-                    src={TeacherBoy}
-                    className="tesgeres-sdijdksmadoe-sodksm"
-                  />
-                </div>
-              </div>
-              <h2 className="texher-name-asec-tkdjs">Mohammed Qasim Qureshi</h2>
+              <h2 className="texher-name-asec-tkdjs">
+                Mohammed bilal Mohammed qasim Qureshi
+              </h2>
               <p className="tecjr-gradutaion-seuhrk">Member</p>
             </div>
           </div>
