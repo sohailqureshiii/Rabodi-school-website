@@ -633,6 +633,13 @@ li {
   margin-top: 8em;
 }
 
+.bckrd-wht-fr-logods-ftr {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background: #fff;
+}
+
 .flx-in-ftr-section-cntr {
   display: flex;
   gap: 4em;
@@ -1840,10 +1847,8 @@ li {
     font-size: 20px;
   }
   .bckrnd-fr-ffotr {
+    padding: 2em 15px 3em 15px;
     margin-top: 45px;
-  }
-  .bckrnd-fr-ffotr {
-    padding: 5em 15px 3em 15px;
   }
   .ftr-logo-section-area-for-respo {
     display: flex;
@@ -2242,6 +2247,16 @@ li {
   }
   .parar-in-fnrt-of-img-section {
     width: 100%;
+  }
+  .bckrd-wht-fr-logods-ftr {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: #fff;
+  }
+  .footers-section-logo {
+    height: 100px;
+    width: 100px;
   }
 }
 

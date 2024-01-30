@@ -16,7 +16,9 @@ const Footer = () => {
           <div className="header-layout-at-main-section">
             <div className="flx-in-ftr-section-cntr">
               <div className="ftr-logo-section-area-for-respo">
-                <Image src={MainLogo} className="footers-section-logo" />
+                <div className="bckrd-wht-fr-logods-ftr">
+                  <Image src={MainLogo} className="footers-section-logo" />
+                </div>
               </div>
               <div>
                 <p className="hedr-ilsjnnd-links-sdc">Quick Links</p>
