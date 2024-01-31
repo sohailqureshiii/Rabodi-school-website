@@ -155,7 +155,7 @@ const Contactus = () => {
               onClick={() => setFaq1(!faq1)}
             >
               <p className="white-txt-at-faq-sect">
-                What Are The Admission Requirements For Rabodi Friend Circle
+                What Are The Admission Requirements For Rabodi Friends' Circle
                 School?
               </p>
               {faq1 ? (

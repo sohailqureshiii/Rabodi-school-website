@@ -78,7 +78,7 @@ const Outribute = () => {
               </h2>
               <p className="para-at-ashadew-sect-pad-ejk apscoenwas-cnjk">
                 The late Qasim Qureshi Sahab, may Allah bless his soul, played a
-                significant role in the Rabodi Friend Circle Education Society
+                significant role in the Rabodi Friends' Circle Education Society
                 from its inception. He began his journey by being elected as a
                 corporator of the Thane Municipal Corporation. Qasim Sahab was
                 an active member of numerous organizations in Rabodi, serving as
@@ -133,17 +133,17 @@ const Outribute = () => {
 
                 <p className="para-ofr-tresusre-adm-rjeks">
                   In loving memory of Mr. Mehmood Sayyed, we reflect upon his
-                  profound impact on the Rabodi Friend Circle Education Society.
-                  Although he left us on 9th March 2011, his legacy lives on
-                  through his invaluable contributions to the society. Mehmood
-                  Sayyed's unwavering dedication and selflessness were evident
-                  in his active participation in various society initiatives.
-                  His passion for education and his commitment to uplifting the
-                  community were truly inspiring. As we remember him on this
-                  day, we pray to Almighty Allah to shower his blessings upon
-                  his departed soul and grant him a lofty place in Jannah. May
-                  his memory continue to motivate us in our pursuit of knowledge
-                  and service to society.
+                  profound impact on the Rabodi Friends' Circle Education
+                  Society. Although he left us on 9th March 2011, his legacy
+                  lives on through his invaluable contributions to the society.
+                  Mehmood Sayyed's unwavering dedication and selflessness were
+                  evident in his active participation in various society
+                  initiatives. His passion for education and his commitment to
+                  uplifting the community were truly inspiring. As we remember
+                  him on this day, we pray to Almighty Allah to shower his
+                  blessings upon his departed soul and grant him a lofty place
+                  in Jannah. May his memory continue to motivate us in our
+                  pursuit of knowledge and service to society.
                 </p>
               </div>
             </div>
@@ -152,12 +152,12 @@ const Outribute = () => {
                 Marhoom Haroon Abbas Pathan
               </h2>
               <p className="para-at-ashadew-sect-pad-ejk apscoenwas-cnjk">
-                Mr Haroon Abbas Pathan is founder member of Rabodi friend Circle
-                education society he was very active member of society from
-                foundation of circle till his death and his contributions to
-                society is very useful he has taken active part in all events of
-                society and school activities he was expired on 06 may 2017 in
-                Pune and he was burried at Ghodegaon at junner at his native
+                Mr Haroon Abbas Pathan is founder member of Rabodi friends'
+                Circle education society he was very active member of society
+                from foundation of circle till his death and his contributions
+                to society is very useful he has taken active part in all events
+                of society and school activities he was expired on 06 may 2017
+                in Pune and he was burried at Ghodegaon at junner at his native
                 place we all the members and staff and students of our school
                 always pray to Almighty Allah subhanahutaala to give best reward
                 in Jannah Ameen.

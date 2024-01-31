@@ -6,7 +6,7 @@ import Image from "next/image";
 const myFont = localFont({ src: "../fonts/Raleway-Medium.ttf" });
 import ScienceLab from "../public/sciencelab.jpg";
 import Camera from "../public/ccvtv.jpg";
-import Elearn from "../public/elearn.jpg";
+import Elearn from "../public/E-LEARNING.jpg";
 import Library from "../public/library1.jpg";
 import ComputerLab from "../public/computer lab.jpg";
 import Footer from "@/components/Footer/footer";

@@ -4,18 +4,18 @@ import React from "react";
 import "../app/globals.css";
 import localFont from "next/font/local";
 const myFont = localFont({ src: "../fonts/Raleway-Medium.ttf" });
-import LeftImage from "../public/leftuievhjeak.png";
+import LeftImage from "../public/WhatsApp Image 2024-01-31 at 4.01.53 PM.jpeg";
 import Calender from "../public/calendar.svg";
 import Trophy from "../public/trophy.svg";
 import Medal from "../public/medal.svg";
 import Students from "../public/reading-book.svg";
-import RightImage from "../public/stud-ruhjsk.jpg";
-import FourthImage from "../public/2151065226.jpg";
+import RightImage from "../public/380432a2-09af-4513-8403-7b4e29c62624.JPG";
+import FourthImage from "../public/hisrtoryofschool.png";
 import BackGrndimage from "../public/bg-kids2.jpg";
 import CallSvg from "../public/phone-call.svg";
 import WhiteNavbar from "@/components/Navbar/Whitelinks";
 import Footer from "@/components/Footer/footer";
-import BackGrndimagetwo from "../public/IMG_2458 (1).jpg";
+import LeftSchoolAdd from "../public/IMG_2577.jpg";
 import BackGrndimagethree from "../public/IMG_2458 (1).jpg";
 import BackGrndimagefour from "../public/IMG_2460 (2).jpg";
 import BackGrndimagefive from "../public/IMG_2461 (1).jpg";
@@ -113,7 +113,7 @@ const aboutus = () => {
                 <div className="fx-ia-sdfhas-dfka">
                   <Image src={Trophy} className="achivments-ssvg-slldj" />
                   <div>
-                    <p className="hdr-nuber-of-acjievments-section">04</p>
+                    <p className="hdr-nuber-of-acjievments-section">06</p>
                     <p className="par-nuber-sof-azx-sa">
                       Primary School Awards
                     </p>
@@ -131,7 +131,7 @@ const aboutus = () => {
                 <div className="fx-ia-sdfhas-dfka">
                   <Image src={Students} className="achivments-ssvg-slldj" />
                   <div>
-                    <p className="hdr-nuber-of-acjievments-section">700+</p>
+                    <p className="hdr-nuber-of-acjievments-section">750+</p>
                     <p className="par-nuber-sof-azx-sa">Students</p>
                   </div>
                 </div>
@@ -198,7 +198,7 @@ const aboutus = () => {
                 <div className="white-bckrnd-aect-abt-abt-sect">
                   <h3 className="hdr-for-box-at-bt-abt-sect">History</h3>
                   <p className="para-dfr-fore-sect-a-abt-sd">
-                    The Rabodi Friend's Circle Education Society Commenced by
+                    The Rabodi Friends' Circle Education Society Commenced by
                     the name as Rabodi Friends’ Circle with a small gymnasium at
                     1 rabodi , thane. Formed by small group of youths in the
                     year 1974 and duly got registered by Government Charity Act
@@ -290,25 +290,28 @@ const aboutus = () => {
         </div>
       </div>
       <>
-        <div>
-          <Image src={BackGrndimage} className="fix-aoblsute-image-at-secoit" />
-          <div className="displayflexat-ns" style={myFont.style}>
-            <div className="header-layout-at-main-section">
-              <div>
-                <div className="mrgin-tp-sections-dier">
-                  <h3 className="hdr-with-back-imhg-saection">
-                    Rolling admissions
-                    <br />
-                    now open
-                  </h3>
-                  <p className="parra-for-smdf-oejS">
-                    Get in touch with us to discuss it:
-                  </p>
-                  <div className="button-at-sjkbnsd">
-                    <Image src={CallSvg} className="sertre-oriklf-aznsm" />
-                    <p className="number-phn-nmbr-sect-ssdjk">022-2542-9174</p>
-                  </div>
+        <div className="displayflexat-ns" style={myFont.style}>
+          <div className="header-layout-at-main-section">
+            <div className="flx-fr-addmision-area-section-sond">
+              <div className="mrgin-tp-sections-dier">
+                <h3 className="hdr-with-back-imhg-saection">
+                  Rolling admissions
+                  <br />
+                  now open
+                </h3>
+                <p className="parra-for-smdf-oejS">
+                  Get in touch with us to discuss it:
+                </p>
+                <div className="button-at-sjkbnsd">
+                  <Image src={CallSvg} className="sertre-oriklf-aznsm" />
+                  <p className="number-phn-nmbr-sect-ssdjk">022-2542-9174</p>
                 </div>
+              </div>
+              <div>
+                <Image
+                  src={LeftSchoolAdd}
+                  className="roling-admisoon-schol-image"
+                />
               </div>
             </div>
           </div>

@@ -5,7 +5,8 @@ import localFont from "next/font/local";
 const myFont = localFont({ src: "../fonts/Raleway-Medium.ttf" });
 import Tearchers from "../public/hijab_icon.png";
 import TeSir from "../public/teacher_boy_icon.png";
-import BackGrndimage from "../public/bg-kids2.jpg";
+import LeftSchoolAdd from "../public/IMG_2577.jpg";
+
 import Image from "next/image";
 import Footer from "@/components/Footer/footer";
 import CallSvg from "../public/phone-call.svg";
@@ -44,6 +45,29 @@ const Teacher = () => {
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
                 <div className="flxin-cnt-tchr-img-sjjd">
+                  <Image src={TeSir} className="teacher-ghrapic-imageskdsk" />
+                </div>
+              </div>
+              <h2 className="texher-name-asec-tkdjs">
+                Dr. Mulla Nasibuddin Zainuddin (Principal)
+              </h2>
+              <p className="tecjr-gradutaion-seuhrk">M.A.B.ED PH.D (Marathi)</p>
+            </div>
+            <div className="cntr-a-dhjs-ewoiknxz-zsd">
+              <div className="flx-in-for-responcve-view-only">
+                <div className="flxin-cnt-tchr-img-sjjd">
+                  <Image
+                    src={Tearchers}
+                    className="teacher-ghrapic-imageskdsk"
+                  />
+                </div>
+              </div>
+              <h2 className="texher-name-asec-tkdjs">Sualeha Azhar Khan</h2>
+              <p className="tecjr-gradutaion-seuhrk">M.A,B.ED,,M.phil (Urdu)</p>
+            </div>
+            <div className="cntr-a-dhjs-ewoiknxz-zsd">
+              <div className="flx-in-for-responcve-view-only">
+                <div className="flxin-cnt-tchr-img-sjjd">
                   <Image
                     src={Tearchers}
                     className="teacher-ghrapic-imageskdsk"
@@ -51,9 +75,9 @@ const Teacher = () => {
                 </div>
               </div>
               <h2 className="texher-name-asec-tkdjs">
-                Khan Naziya (Principal)
+                khan Nazia Tarannum Ayyub
               </h2>
-              <p className="tecjr-gradutaion-seuhrk">Bsc., B.ed</p>
+              <p className="tecjr-gradutaion-seuhrk">Bsc.B.ED</p>
             </div>
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
@@ -64,56 +88,10 @@ const Teacher = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Khan Wahida</h2>
-              <p className="tecjr-gradutaion-seuhrk">M.A B.ed</p>
-            </div>
-            <div className="cntr-a-dhjs-ewoiknxz-zsd">
-              <div className="flx-in-for-responcve-view-only">
-                <div className="flxin-cnt-tchr-img-sjjd">
-                  <Image
-                    src={Tearchers}
-                    className="teacher-ghrapic-imageskdsk"
-                  />
-                </div>
-              </div>
-              <h2 className="texher-name-asec-tkdjs">Shaikh Husna</h2>
-              <p className="tecjr-gradutaion-seuhrk">M.A M.ed</p>
-            </div>
-            <div className="cntr-a-dhjs-ewoiknxz-zsd">
-              <div className="flx-in-for-responcve-view-only">
-                <div className="flxin-cnt-tchr-img-sjjd">
-                  <Image
-                    src={Tearchers}
-                    className="teacher-ghrapic-imageskdsk"
-                  />
-                </div>
-              </div>
-              <h2 className="texher-name-asec-tkdjs">Khan Shehnaz</h2>
-              <p className="tecjr-gradutaion-seuhrk">B.com, M.A , B.ed</p>
-            </div>
-          </div>
-          <div className="flx-in-images-of-teahers-st-akjs">
-            <div className="cntr-a-dhjs-ewoiknxz-zsd">
-              <div className="flx-in-for-responcve-view-only">
-                <div className="flxin-cnt-tchr-img-sjjd">
-                  <Image
-                    src={Tearchers}
-                    className="teacher-ghrapic-imageskdsk"
-                  />
-                </div>
-              </div>
-              <h2 className="texher-name-asec-tkdjs">Khan Sualeha Azhar</h2>
-              <p className="tecjr-gradutaion-seuhrk">M.phil, M.A , B.ed</p>
-            </div>
-
-            <div className="cntr-a-dhjs-ewoiknxz-zsd">
-              <div className="flx-in-for-responcve-view-only">
-                <div className="flxin-cnt-tchr-img-sjjd">
-                  <Image src={TeSir} className="teacher-ghrapic-imageskdsk" />
-                </div>
-              </div>
-              <h2 className="texher-name-asec-tkdjs">Mulla Nasibodin</h2>
-              <p className="tecjr-gradutaion-seuhrk">Phd, M.A B.ed</p>
+              <h2 className="texher-name-asec-tkdjs">Shaikh Husna Ziyauddin</h2>
+              <p className="tecjr-gradutaion-seuhrk">
+                M.A, B.ED, M.ED ,(PET Exam Qualified)
+              </p>
             </div>
           </div>
           <div className="flx-in-for-ht-lne-area-djks">
@@ -145,8 +123,8 @@ const Teacher = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Quazi Mehfooza Hamid</h2>
-              <p className="tecjr-gradutaion-seuhrk">D.ed, B.A</p>
+              <h2 className="texher-name-asec-tkdjs">Shaikh Noorjahan</h2>
+              <p className="tecjr-gradutaion-seuhrk">D.ed, B.A, B.ed</p>
             </div>
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
@@ -157,8 +135,8 @@ const Teacher = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Shaikh Noorjahan</h2>
-              <p className="tecjr-gradutaion-seuhrk">D.ed, B.A, B.ed</p>
+              <h2 className="texher-name-asec-tkdjs">Qazi Mehfooza Hamid</h2>
+              <p className="tecjr-gradutaion-seuhrk">D.ed, B.A</p>
             </div>
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
@@ -195,18 +173,6 @@ const Teacher = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Khan Zareena</h2>
-              <p className="tecjr-gradutaion-seuhrk">D.ed, B.com, B.A</p>
-            </div>
-            <div className="cntr-a-dhjs-ewoiknxz-zsd">
-              <div className="flx-in-for-responcve-view-only">
-                <div className="flxin-cnt-tchr-img-sjjd">
-                  <Image
-                    src={Tearchers}
-                    className="teacher-ghrapic-imageskdsk"
-                  />
-                </div>
-              </div>
               <h2 className="texher-name-asec-tkdjs">Ansari Iram</h2>
               <p className="tecjr-gradutaion-seuhrk">D.ed, B.A</p>
             </div>
@@ -218,6 +184,18 @@ const Teacher = () => {
               </div>
               <h2 className="texher-name-asec-tkdjs">Shaikh Shebaz</h2>
               <p className="tecjr-gradutaion-seuhrk">D.ed, B.A</p>
+            </div>
+            <div className="cntr-a-dhjs-ewoiknxz-zsd">
+              <div className="flx-in-for-responcve-view-only">
+                <div className="flxin-cnt-tchr-img-sjjd">
+                  <Image
+                    src={Tearchers}
+                    className="teacher-ghrapic-imageskdsk"
+                  />
+                </div>
+              </div>
+              <h2 className="texher-name-asec-tkdjs">Khan Zareena</h2>
+              <p className="tecjr-gradutaion-seuhrk">D.ed, B.com, B.A</p>
             </div>
           </div>
           <div className="flx-in-for-ht-lne-area-djks">
@@ -237,17 +215,20 @@ const Teacher = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Ansari Tazeen</h2>
-              <p className="tecjr-gradutaion-seuhrk">Montesary,B.A</p>
+              <h2 className="texher-name-asec-tkdjs">Shabina Altaf Shaikh</h2>
+              <p className="tecjr-gradutaion-seuhrk">SSC.Montassory</p>
             </div>
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
                 <div className="flxin-cnt-tchr-img-sjjd">
-                  <Image src={TeSir} className="teacher-ghrapic-imageskdsk" />
+                  <Image
+                    src={Tearchers}
+                    className="teacher-ghrapic-imageskdsk"
+                  />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Khan Absar</h2>
-              <p className="tecjr-gradutaion-seuhrk">D.ed, B.A</p>
+              <h2 className="texher-name-asec-tkdjs">Sayed Mubina Rizwanr</h2>
+              <p className="tecjr-gradutaion-seuhrk">HSC.EC.Ced</p>
             </div>
           </div>
         </div>
@@ -281,7 +262,7 @@ const Teacher = () => {
                     mould them in the best form we can, just like clay.
                   </p>
                   <h3 className="name-of-thr-messenger-at-sod">
-                    Khan Naziya Ayyub
+                    Dr. Mulla Nasibuddin Zainuddin (Principal)
                   </h3>
                   <p className="edut-of-the-mesenger-atfjjkdst">Principle</p>
                 </div>
@@ -321,25 +302,28 @@ const Teacher = () => {
         </div>
       </div>
       <>
-        <div>
-          <Image src={BackGrndimage} className="fix-aoblsute-image-at-secoit" />
-          <div className="displayflexat-ns" style={myFont.style}>
-            <div className="header-layout-at-main-section">
-              <div>
-                <div className="mrgin-tp-sections-dier">
-                  <h3 className="hdr-with-back-imhg-saection">
-                    Rolling admissions
-                    <br />
-                    now open
-                  </h3>
-                  <p className="parra-for-smdf-oejS">
-                    Get in touch with us to discuss it:
-                  </p>
-                  <div className="button-at-sjkbnsd">
-                    <Image src={CallSvg} className="sertre-oriklf-aznsm" />
-                    <p className="number-phn-nmbr-sect-ssdjk">022-2542-9174</p>
-                  </div>
+        <div className="displayflexat-ns" style={myFont.style}>
+          <div className="header-layout-at-main-section">
+            <div className="flx-fr-addmision-area-section-sond">
+              <div className="mrgin-tp-sections-dier">
+                <h3 className="hdr-with-back-imhg-saection">
+                  Rolling admissions
+                  <br />
+                  now open
+                </h3>
+                <p className="parra-for-smdf-oejS">
+                  Get in touch with us to discuss it:
+                </p>
+                <div className="button-at-sjkbnsd">
+                  <Image src={CallSvg} className="sertre-oriklf-aznsm" />
+                  <p className="number-phn-nmbr-sect-ssdjk">022-2542-9174</p>
                 </div>
+              </div>
+              <div>
+                <Image
+                  src={LeftSchoolAdd}
+                  className="roling-admisoon-schol-image"
+                />
               </div>
             </div>
           </div>

@@ -3,10 +3,8 @@ import Image from "next/image";
 import styles from "./page.module.css";
 const myFont = localFont({ src: "../fonts/Raleway-Medium.ttf" });
 import BackGorundImage from "../public/red-buildings-households.jpg";
-import StudentsOne from "../public/young-lady-hijab-looking-sae-seaside_114579-3989.jpg";
-import Studenttwo from "../public/muslim-scientist-boy-cartoon-character-sticker_1308-80674.jpg";
-import Studentsthree from "../public/medium-shot-gorgeous-girl-with-hijab-smiling-outside_23-2148645026.jpg";
-import BackGrndimage from "../public/bg-kids2.jpg";
+import FacultyBack from "../public/IMG_2566.JPG";
+import LeftSchoolAdd from "../public/IMG_2577.jpg";
 import CallSvg from "../public/phone-call.svg";
 import Math from "../public/square-root-of-x-mathematical-signs.svg";
 import Microscope from "../public/microscope.svg";
@@ -18,7 +16,7 @@ import localFont from "next/font/local";
 import "../app/globals.css";
 import Footer from "@/components/Footer/footer";
 import ReactPlayer from "react-player";
-import BackgroundImage from "../public/red-buildings-households.jpg";
+import BackgroundImage from "../public/WhatsApp Image 2024-01-31 at 4.01.53 PM.jpeg";
 import Link from "next/link";
 
 export default function Home() {
@@ -37,7 +35,7 @@ export default function Home() {
                   Hello! Welcome to
                 </h3>
                 <h1 className="hdr-section-one-areas-top-schl-name">
-                  Rabodi Friend Circle Urdu High School
+                  Rabodi Friends' Circle Urdu High School
                 </h1>
                 <p className="para-at-section-ablout-us-riekljm">
                   Our educational era started with Pre-Primary school named
@@ -64,7 +62,7 @@ export default function Home() {
               <div className="header-layout-at-main-section">
                 <p className="section-main-hdr-fr-wht-sec">Who We Are</p>
                 <h1 className="hone-section-at-rodn-skk">
-                  Rabodi Friend Circle
+                  Rabodi Friends' Circle
                   <br /> Education Society
                 </h1>
               </div>{" "}
@@ -76,18 +74,18 @@ export default function Home() {
             <div className="flx-nin-two-compo-at-sbic">
               <div className="widht-for-para-section-at-secound-sect">
                 <p className="first-para-at-schl-sectio-sjkdjs">
-                  Rabodi Friend Circle is a dedicated educational organization
+                  Rabodi Friends' Circle is a dedicated educational organization
                   that has been serving the community for decades. Founded in
                   1974 by a group of like-minded individuals with a common goal
                   of benefiting humanity, the organization has evolved into a
-                  leading educational institution known as Rabodi Friend Circle
-                  education Society. With a strong commitment to the overall
-                  development of the youth in Rabodi, Thane, the organization
-                  has gradually and effectively implemented its aims and
-                  objectives. Through its unwavering dedication and tireless
-                  efforts, Rabodi Friend Circle has become a respected and
-                  reputable institution that is admired by many for its
-                  outstanding services and contributions to society.
+                  leading educational institution known as Rabodi Friends'
+                  Circle education Society. With a strong commitment to the
+                  overall development of the youth in Rabodi, Thane, the
+                  organization has gradually and effectively implemented its
+                  aims and objectives. Through its unwavering dedication and
+                  tireless efforts, Rabodi Friends' Circle has become a
+                  respected and reputable institution that is admired by many
+                  for its outstanding services and contributions to society.
                 </p>
               </div>
               <div className="third-left-top-minus-sect" style={myFont.style}>
@@ -108,7 +106,7 @@ export default function Home() {
                     </p>
                   </div>
                   <div>
-                    <p className="number-achienved-by-shools-sdjk">04</p>
+                    <p className="number-achienved-by-shools-sdjk">06</p>
                     <p className="secound-line-of-sleft-sdide">
                       PRIMARY AWARDS
                     </p>
@@ -128,7 +126,7 @@ export default function Home() {
                     </p>
                   </div>
                   <div>
-                    <p className="number-achienved-by-shools-sdjk">700+</p>
+                    <p className="number-achienved-by-shools-sdjk">750+</p>
                     <p className="secound-line-of-sleft-sdide">STUDENTS</p>
                     <p className="para-at-side-ltions">
                       studenst currentlly
@@ -169,12 +167,12 @@ export default function Home() {
                   <br /> Expertise In
                 </h2>
                 <p className="para-t-ns-left-frth-sect-ksdsn">
-                  At Rabodi Friend Circle Education Society, we boast excellent
-                  expertise in a range of subjects, including Mathematics,
-                  Teaching, Science, and more. Our dedicated team of educators
-                  brings passion and proficiency to each discipline, ensuring a
-                  comprehensive and enriching learning experience for our
-                  students.
+                  At Rabodi Friends' Circle Education Society, we boast
+                  excellent expertise in a range of subjects, including
+                  Mathematics, Teaching, Science, and more. Our dedicated team
+                  of educators brings passion and proficiency to each
+                  discipline, ensuring a comprehensive and enriching learning
+                  experience for our students.
                 </p>
               </div>
               <div className="dis-flx-six-cntr-area">
@@ -245,7 +243,7 @@ export default function Home() {
       <>
         <div className="back-toop-section-onlysjd">
           <Image
-            src={BackGorundImage}
+            src={FacultyBack}
             className="background-image-at-section-part-skj"
           />
           <div className="back-rnd-at-image-section-asosij">
@@ -294,7 +292,7 @@ export default function Home() {
                   <br /> Deparments In
                 </h2>
                 <p className="para-t-ns-left-frth-sect-ksdsn">
-                  At Rabodi Friend Circle Education Society, our commitment to
+                  At Rabodi Friends' Circle Education Society, our commitment to
                   education is reflected in our excellent departments. We take
                   pride in fostering a strong foundation for learning with our
                   Primary Urdu School. As students progress, our High Urdu
@@ -351,43 +349,44 @@ export default function Home() {
             <div className="flx-in-fr-testimonial-parts-at-sectio">
               <div className="container-at-testimon-white-badck">
                 <p className="paras-text-at-testimonial-sectuoas-sdsfd">
-                  Rabodi Friend Circle Education Society has been a game-changer
-                  for my child. The school's commitment to excellence and
-                  nurturing environment have significantly impacted my child's
-                  growth. Dedicated educators and comprehensive programs make
-                  Rabodi Friend Circle a great choice for any parent.
+                  Rabodi Friends' Circle Education Society has been a
+                  game-changer for my child. The school's commitment to
+                  excellence and nurturing environment have significantly
+                  impacted my child's growth. Dedicated educators and
+                  comprehensive programs make Rabodi Friends' Circle a great
+                  choice for any parent.
                 </p>
-                <div className="flxin-scntr-img-of-studnet">
+                {/* <div className="flxin-scntr-img-of-studnet">
                   <Image src={StudentsOne} className="sdfghjdsrtgfdsdfghb" />
-                </div>
+                </div> */}
                 <p className="student-name-in-testimonial">Zainab Ahmed</p>
                 <p className="nsajke-oieh-ascmkl">Parent</p>
               </div>
               <div className="container-at-testimon-white-badck">
                 <p className="paras-text-at-testimonial-sectuoas-sdsfd">
-                  Rabodi Friend Circle Education Society is more than a school;
-                  it's a second home. Engaging lessons, supportive teachers, and
-                  diverse opportunities have enriched my academic journey. The
-                  emphasis on holistic development equips students with skills
-                  and confidence for the future.
+                  Rabodi Friends' Circle Education Society is more than a
+                  school; it's a second home. Engaging lessons, supportive
+                  teachers, and diverse opportunities have enriched my academic
+                  journey. The emphasis on holistic development equips students
+                  with skills and confidence for the future.
                 </p>
-                <div className="flxin-scntr-img-of-studnet">
+                {/* <div className="flxin-scntr-img-of-studnet">
                   <Image src={Studenttwo} className="sdfghjdsrtgfdsdfghb" />
-                </div>
+                </div> */}
                 <p className="student-name-in-testimonial">Ahmed Khan</p>
                 <p className="nsajke-oieh-ascmkl">Student</p>
               </div>
               <div className="container-at-testimon-white-badck">
                 <p className="paras-text-at-testimonial-sectuoas-sdsfd">
-                  Rabodi Friend Circle Education Society played a pivotal role
+                  Rabodi Friends' Circle Education Society played a pivotal role
                   in my academic and professional journey. The solid foundation,
                   dynamic learning environment, and values-driven education
                   shaped my character. Proud to be an alum of a school that
                   genuinely cares about its students' success and well-being.
                 </p>
-                <div className="flxin-scntr-img-of-studnet">
+                {/* <div className="flxin-scntr-img-of-studnet">
                   <Image src={Studentsthree} className="sdfghjdsrtgfdsdfghb" />
-                </div>
+                </div> */}
                 <p className="student-name-in-testimonial">Fatima Ali</p>
                 <p className="nsajke-oieh-ascmkl">Student</p>
               </div>
@@ -397,10 +396,10 @@ export default function Home() {
       </>
       <>
         <div className="mrgin-tp-fixd-pt-o">
-          <Image src={BackGrndimage} className="fix-aoblsute-image-at-secoit" />
+          {/* <Image src={BackGrndimage} className="fix-aoblsute-image-at-secoit" /> */}
           <div className="displayflexat-ns" style={myFont.style}>
             <div className="header-layout-at-main-section">
-              <div>
+              <div className="flx-fr-addmision-area-section-sond">
                 <div className="mrgin-tp-sections-dier">
                   <h3 className="hdr-with-back-imhg-saection">
                     Rolling admissions
@@ -414,6 +413,12 @@ export default function Home() {
                     <Image src={CallSvg} className="sertre-oriklf-aznsm" />
                     <p className="number-phn-nmbr-sect-ssdjk">022-2542-9174</p>
                   </div>
+                </div>
+                <div>
+                  <Image
+                    src={LeftSchoolAdd}
+                    className="roling-admisoon-schol-image"
+                  />
                 </div>
               </div>
             </div>

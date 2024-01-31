@@ -112,12 +112,20 @@ const Members = () => {
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
                 <div className="wsdhjed-weojmzs-skadf">
-                  <Image src={Faiz} className="tesgeres-sdijdksmadoe-sodksm" />
+                  <Image
+                    src={Mateen}
+                    className="tesgeres-sdijdksmadoe-sodksm"
+                  />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Faiz Ahmed Shaikh</h2>
-              <p className="tecjr-gradutaion-seuhrk">Joint secretary</p>
+              <h2 className="texher-name-asec-tkdjs">
+                Mohd. Matin Jamaluddin Shaikh
+              </h2>
+              <p className="tecjr-gradutaion-seuhrk">
+                Treasurer & Chairman Education Committee
+              </p>
             </div>
+
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
                 <div className="wsdhjed-weojmzs-skadf">
@@ -146,16 +154,11 @@ const Members = () => {
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
                 <div className="wsdhjed-weojmzs-skadf">
-                  <Image
-                    src={Mateen}
-                    className="tesgeres-sdijdksmadoe-sodksm"
-                  />
+                  <Image src={Faiz} className="tesgeres-sdijdksmadoe-sodksm" />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">
-                Mohd. Matin Jamaluddin Shaikh
-              </h2>
-              <p className="tecjr-gradutaion-seuhrk">Member</p>
+              <h2 className="texher-name-asec-tkdjs">Faiz Ahmed Shaikh</h2>
+              <p className="tecjr-gradutaion-seuhrk">Joint secretary</p>
             </div>
           </div>
           <div className="flx-in-images-of-teahers-st-akjs">
@@ -189,7 +192,7 @@ const Members = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Mr.Abdul Hai Shaikh</h2>
+              <h2 className="texher-name-asec-tkdjs">Mr. Abdul Hai Shaikh</h2>
               <p className="tecjr-gradutaion-seuhrk">Member</p>
             </div>
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
@@ -249,7 +252,7 @@ const Members = () => {
                 </div>
               </div>
               <h2 className="texher-name-asec-tkdjs">
-                Mr.Ziya Azmat Jamal Aazmi
+                Mr. Ziya Azmat Jamal Aazmi
               </h2>
               <p className="tecjr-gradutaion-seuhrk">Member</p>
             </div>

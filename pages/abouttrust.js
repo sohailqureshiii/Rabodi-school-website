@@ -4,9 +4,10 @@ import "../app/globals.css";
 import localFont from "next/font/local";
 const myFont = localFont({ src: "../fonts/Raleway-Medium.ttf" });
 import Navbar from "@/components/Navbar/navbar";
-import LeftImaheatjd from "../public/people-standing-office-holding-hands-together.jpg";
-import SecoundLeftImaheatjd from "../public/40981.jpg";
-import TeSir from "../public/teacher_boy_icon.png";
+import LeftImaheatjd from "../public/sdgfhgh – 1.png";
+import LeftSchoolAdd from "../public/IMG_2577.jpg";
+import AbdulMajeed from "../public/MajeedB.jpg";
+import Saeeds from "../public/Saeeds.jpg";
 import BackGrndimage from "../public/bg-kids2.jpg";
 import CallSvg from "../public/phone-call.svg";
 import Footer from "@/components/Footer/footer";
@@ -112,69 +113,59 @@ const Abouttrust = () => {
             </div>
             <div>
               <Image
-                src={SecoundLeftImaheatjd}
+                src={AbdulMajeed}
                 className="puzzle-sovel-imagae-aosksd-djk"
               />
             </div>
           </div>
-          <div className="flx-in-fr-sect-truse-and-our-cmitre">
-            <div className="wid-fr-tress-and-oyhrre-mvdj-dfj">
-              <h2 className="hdr-fr-this-scekja-kodklfm">Treasurer</h2>
-              <p className="name-of-tessrj-and-general-securit">
-                Mohammad Qasim Khaki Qureshi,
-              </p>
-              <p className="para-ofr-tresusre-adm-rjeks">
-                Treasurer Of Rabodi Friends Circle Education Society
-                Ex-corporator Of T.m.c Special Executive Officer Of Govt. Of
-                Maharashtra Vice-president Of Thane City ( District) Congress
-                Committee Vice-president Of Muslim Education Welfare Association
-                General Secretary Of Islami Dini Jamat ,rabodi, Thane. General
-                Secretary Of Jamitul Ulema E Hind Thane City.
-              </p>
-            </div>
-            <div className="wid-fr-tress-and-oyhrre-mvdj-dfj">
-              <h2 className="hdr-fr-this-scekja-kodklfm">General Secretary</h2>
-              <p className="name-of-tessrj-and-general-securit">
-                Abdussaeed Moosa Shaikh,
-              </p>
-              <p className="para-ofr-tresusre-adm-rjeks">
-                appointed General secretary from 09/10/2016 A Arts graduate with
-                L.L.B, LGS, A retired Assistant Assessor & Collector of Mumbai
-                Mahanagar Palika , Ex. President of Anjuman-e-Khandesh and
-                Member of Ideal Education Society,Rabodi ,Thane. Member of
-                Muslim Education & Welfare Association ,Rabodi,Thane.
-              </p>
-            </div>
+          <div className="bat-shadow-cntr-at-sbt-su-sectoa">
+            <h2 className="hdr-fr-this-scekja-kodklfm">
+              {" "}
+              Abdussaeed Moosa Shaikh
+            </h2>
+            <p className="name-of-tessrj-and-general-securit">
+              General Secretary
+            </p>
+            <p className="para-ofr-tresusre-adm-rjeks">
+              Appointed General secretary from 09/10/2016 A Arts graduate with
+              L.L.B, LGS, A retired Assistant Assessor & Collector of Mumbai
+              Mahanagar Palika , Ex. President of Anjuman-e-Khandesh and Member
+              of Ideal Education Society,Rabodi ,Thane. Member of Muslim
+              Education & Welfare Association ,Rabodi,Thane.
+            </p>
           </div>
           <div className="bat-shadow-cntr-at-sbt-su-sectoa">
-            <h2 className="hdr-fr-this-scekja-kodklfm">Mr Mateen Shaikh</h2>
+            <h2 className="hdr-fr-this-scekja-kodklfm">Mr Matin Shaikh</h2>
             <p className="name-of-tessrj-and-general-securit">
-              Farhana Firoz Shaikh , Head Mistress
+              Treasurer & Chairman Education Committee
             </p>
             <p className="para-at-ashadew-sect-pad-ejk">
               Honorable students, esteemed parents, and respected viewers, I am
-              honored to introduce to you Mr. Muhammad Mateen Sheikh, the
-              current treasurer and former general secretary of the Rabori
-              Friends Circle Education Society. He has been a stalwart member of
-              this institution since its inception, serving as its first general
-              secretary and playing a pivotal role in its establishment and
-              growth. A pillar of our academic, social, and cultural circles, he
-              stood shoulder to shoulder with the late Javed Sheikh, the
-              institution's former president, in laying the foundation for the
-              schools that continue to thrive under our aegis. From securing
-              school permits to ensuring their stability, he has been an
-              indispensable force, tirelessly contributing to the institution's
-              progress. Capturing the essence of an exceptional individual like
-              he is a daunting task, yet it is also imperative, for under his
-              guidance and leadership, our schools have scaled new heights of
-              success. An eloquent speaker and a compassionate soul, he has
-              never turned a blind eye to students facing financial constraints,
-              extending a helping hand to ensure their educational continuity.
-              His empathetic approach has also inspired positive transformations
-              among the teaching fraternity. We pray to Almighty Allah to grant
-              he longevity and continued good health, ensuring that his
-              unwavering support and guidance remain available to our
+              honored to introduce to you Mr. Muhammad Matin Sheikh, the current
+              Treasurer & Chairman Education Committee and former general
+              secretary of the Rabori Friends Circle Education Society. He has
+              been a stalwart member of this institution since its inception,
+              serving as its first general secretary and playing a pivotal role
+              in its establishment and growth. A pillar of our academic, social,
+              and cultural circles, he stood shoulder to shoulder with the late
+              Javed Sheikh, the institution's former president, in laying the
+              foundation for the schools that continue to thrive under our
+              aegis. From securing school permits to ensuring their stability,
+              he has been an indispensable force, tirelessly contributing to the
+              institution's progress. Capturing the essence of an exceptional
+              individual like he is a daunting task, yet it is also imperative,
+              for under his guidance and leadership, our schools have scaled new
+              heights of success. An eloquent speaker and a compassionate soul,
+              he has never turned a blind eye to students facing financial
+              constraints, extending a helping hand to ensure their educational
+              continuity. His empathetic approach has also inspired positive
+              transformations among the teaching fraternity. We pray to Almighty
+              Allah to grant he longevity and continued good health, ensuring
+              that his unwavering support and guidance remain available to our
               institution and its schools.
+            </p>
+            <p className="name-of-tessrj-and-general-securit">
+              - Farhana Firoz Shaikh , Head Mistress
             </p>
           </div>
         </div>
@@ -223,7 +214,7 @@ const Abouttrust = () => {
               </p>
               <div className="brdr-left-fr-messangessld">
                 <div className="flx-fr-respo-dsjjkm">
-                  <Image src={TeSir} className="shejk-stenam-opansc" />
+                  <Image src={AbdulMajeed} className="shejk-stenam-opansc" />
                 </div>
                 <h2 className="name-of-meessahner-president">
                   Abdul Majeed Burondkar
@@ -272,7 +263,7 @@ const Abouttrust = () => {
               </p>
               <div className="brdr-left-fr-messangessld">
                 <div className="flx-fr-respo-dsjjkm">
-                  <Image src={TeSir} className="shejk-stenam-opansc" />
+                  <Image src={Saeeds} className="shejk-stenam-opansc" />
                 </div>
                 <h2 className="name-of-meessahner-president">
                   Abdussaeed Moosa Shaikh
@@ -286,10 +277,9 @@ const Abouttrust = () => {
         </div>
       </div>
       <div>
-        <Image src={BackGrndimage} className="fix-aoblsute-image-at-secoit" />
         <div className="displayflexat-ns" style={myFont.style}>
           <div className="header-layout-at-main-section">
-            <div>
+            <div className="flx-fr-addmision-area-section-sond">
               <div className="mrgin-tp-sections-dier">
                 <h3 className="hdr-with-back-imhg-saection">
                   Rolling admissions
@@ -303,6 +293,12 @@ const Abouttrust = () => {
                   <Image src={CallSvg} className="sertre-oriklf-aznsm" />
                   <p className="number-phn-nmbr-sect-ssdjk">022-2542-9174</p>
                 </div>
+              </div>
+              <div>
+                <Image
+                  src={LeftSchoolAdd}
+                  className="roling-admisoon-schol-image"
+                />
               </div>
             </div>
           </div>

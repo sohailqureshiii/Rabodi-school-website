@@ -245,7 +245,7 @@ li {
 
 .background-image-at-section-part-skj {
   width: 100%;
-  height: 30em;
+  height: 40em;
   position: absolute;
   z-index: -1;
 }
@@ -253,7 +253,7 @@ li {
 .back-rnd-at-image-section-asosij {
   width: 100%;
   height: 30em;
-  background: #000000a8;
+  background: #000000c2;
   z-index: 101;
   text-align: center;
 }
@@ -515,8 +515,8 @@ li {
 
 .student-name-in-testimonial {
   text-align: center;
-  margin-top: 25px;
-  font-size: 13px;
+  margin-top: 5px;
+  font-size: 18px;
   font-weight: 800;
   color: #174a6a;
   letter-spacing: 1px;
@@ -583,8 +583,20 @@ li {
   letter-spacing: 1px;
 }
 
+.roling-admisoon-schol-image {
+  height: 20em;
+  width: 38em;
+  border-radius: 10px;
+}
+
 .mrgin-tp-sections-dier {
-  margin-top: 8em;
+  margin-top: 0em;
+}
+.flx-fr-addmision-area-section-sond {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 4em;
 }
 
 .backrnd-dff-wih-ot-ht-sd {
@@ -1060,7 +1072,7 @@ li {
   width: 100%;
   height: 44em;
   top: 0;
-  background: rgb(43 27 13 / 84%);
+  background: rgba(0, 0, 0, 0.84);
   position: absolute;
   z-index: -1;
 }
@@ -1077,7 +1089,7 @@ li {
 .hdr-section-one-areas-top-schl-name {
   margin-top: 45px;
   color: #fff;
-  font-size: 66px;
+  font-size: 64px;
 }
 
 .para-at-section-ablout-us-riekljm {
@@ -1129,13 +1141,14 @@ li {
 }
 
 .left-img-fr-abt-us-image {
-  height: 35em;
+  height: 30em;
   width: 35em;
 }
 
 .para-at-left-ridgt-section-sinkj {
   font-size: 18px;
   line-height: 30px;
+  width: 40em;
 }
 
 .dply-flx-in-at-lsrft-tifgt-sctiojn {
@@ -1149,7 +1162,7 @@ li {
 }
 
 .flx-img-left-at-sbnt-sntom {
-  height: 35em;
+  height: 30em;
   width: 28em;
 }
 
@@ -1218,7 +1231,7 @@ li {
 .white-bckrnd-aect-abt-abt-sect {
   background: #fff;
   padding: 40px;
-  height: 36.2em;
+  height: 37.2em;
 }
 
 .clr-scetion-for-jdkvn {
@@ -1419,7 +1432,7 @@ li {
 
 .puzzle-sovel-imagae-aosksd-djk {
   height: 26.5em;
-  width: 32em;
+  width: 26.5em;
   border-top-left-radius: 50px;
   border-bottom-right-radius: 50px;
 }
@@ -1575,9 +1588,10 @@ li {
 
 .shejk-stenam-opansc {
   color: transparent;
-  height: 15em;
-  width: 15em;
-  margin-top: -26px;
+  height: 12em;
+  width: 12em;
+  border-radius: 8px;
+  margin-top: 0px;
 }
 
 .name-of-meessahner-president {
@@ -1594,7 +1608,7 @@ li {
 
 .brdr-left-fr-messangessld {
   border-left: 4px solid #2d1d54;
-  padding-left: 0px;
+  padding-left: 15px;
 }
 
 .tesgeres-sdijdksmadoe-sodksm {
@@ -1896,6 +1910,7 @@ li {
   }
   .flx-fr-right-img-and-achibvments-sections-fj {
     flex-direction: column-reverse;
+    gap: 1em;
   }
   .flx-img-left-at-sbnt-sntom {
     height: 24em;
@@ -1953,6 +1968,7 @@ li {
     padding-top: 15px;
     font-size: 16px;
     line-height: 25px;
+    width: 100%;
   }
   .flx-fr-right-img-and-achibvments-sections-fj {
     padding: 15px;
@@ -2257,6 +2273,15 @@ li {
   .footers-section-logo {
     height: 100px;
     width: 100px;
+  }
+  .roling-admisoon-schol-image {
+    width: 100%;
+    height: 12em;
+  }
+  .flx-fr-addmision-area-section-sond {
+    padding: 15px;
+    flex-direction: column;
+    margin-top: 1em;
   }
 }
 
