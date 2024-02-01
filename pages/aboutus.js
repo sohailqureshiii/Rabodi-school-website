@@ -141,6 +141,27 @@ const aboutus = () => {
               <Image src={RightImage} className="flx-img-left-at-sbnt-sntom" />
             </div>
           </div>
+          <div className="top-sect-dix-dhjblollloguyftuu">
+            <h3 className="our-achient-ms-sefjkdnm">Top Rankers</h3>
+            <div>
+              <p className="flx-percentge-of-studnts-at-scjh">
+                {" "}
+                Shah aasiya chaand 78.20% (2019)
+              </p>
+              <p className="flx-percentge-of-studnts-at-scjh">
+                Yasmeen mujeeburrehman - 92.20% (2020)
+              </p>
+              <p className="flx-percentge-of-studnts-at-scjh">
+                Shaikh mushira masiulhaq - 89.40% (2021)
+              </p>
+              <p className="flx-percentge-of-studnts-at-scjh">
+                Shaikh aaliya altaf - 89.40% (2022)
+              </p>
+              <p className="flx-percentge-of-studnts-at-scjh">
+                Khan Zaid Arif - 90.20% (2023)
+              </p>
+            </div>
+          </div>
         </div>
       </div>
       <div className="backgrnd-nsdjk-aoieds-ask">
