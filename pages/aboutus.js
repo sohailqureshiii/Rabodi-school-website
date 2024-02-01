@@ -143,23 +143,52 @@ const aboutus = () => {
           </div>
           <div className="top-sect-dix-dhjblollloguyftuu">
             <h3 className="our-achient-ms-sefjkdnm">Top Rankers</h3>
-            <div>
-              <p className="flx-percentge-of-studnts-at-scjh">
-                {" "}
-                Shah aasiya chaand 78.20% (2019)
-              </p>
-              <p className="flx-percentge-of-studnts-at-scjh">
-                Yasmeen mujeeburrehman - 92.20% (2020)
-              </p>
-              <p className="flx-percentge-of-studnts-at-scjh">
-                Shaikh mushira masiulhaq - 89.40% (2021)
-              </p>
-              <p className="flx-percentge-of-studnts-at-scjh">
-                Shaikh aaliya altaf - 89.40% (2022)
-              </p>
-              <p className="flx-percentge-of-studnts-at-scjh">
-                Khan Zaid Arif - 90.20% (2023)
-              </p>
+            <div className="flx-of-number-oerp-high-sndvm">
+              <div>
+                <p className="flx-percentge-of-studnts-at-scjh">
+                  {" "}
+                  Ansari Haseena Bano Nazakat 93.64% (2011)
+                </p>
+                <p className="flx-percentge-of-studnts-at-scjh">
+                  Afreen Khatoon Mohd Hadis 89.09 (2012)
+                </p>
+                <p className="flx-percentge-of-studnts-at-scjh">
+                  Ansari Kehkashan Afroz Naseer Alalm 86.60 (2013)
+                </p>
+                <p className="flx-percentge-of-studnts-at-scjh">
+                  Shaikh Arbaaz Malik 88.20 (2014)
+                </p>
+                <p className="flx-percentge-of-studnts-at-scjh">
+                  Khan Aayesha Khatun Nabi Sarvar 88.60 (2015)
+                </p>
+                <p className="flx-percentge-of-studnts-at-scjh">
+                  Ansari Kulsum Jahan Rizwan 91.20 (2016)
+                </p>
+                <p className="flx-percentge-of-studnts-at-scjh">
+                  Shaikh Mohammed Kalimullah 92.60 (2017)
+                </p>
+              </div>
+              <div>
+                <p className="flx-percentge-of-studnts-at-scjh">
+                  Shaikh Mehmood Raza Islam Ali 94.60 (2018)
+                </p>
+                <p className="flx-percentge-of-studnts-at-scjh">
+                  {" "}
+                  Shah aasiya chaand 78.20% (2019)
+                </p>
+                <p className="flx-percentge-of-studnts-at-scjh">
+                  Yasmeen mujeeburrehman - 92.20% (2020)
+                </p>
+                <p className="flx-percentge-of-studnts-at-scjh">
+                  Shaikh mushira masiulhaq - 89.40% (2021)
+                </p>
+                <p className="flx-percentge-of-studnts-at-scjh">
+                  Shaikh aaliya altaf - 89.40% (2022)
+                </p>
+                <p className="flx-percentge-of-studnts-at-scjh">
+                  Khan Zaid Arif - 90.20% (2023)
+                </p>
+              </div>
             </div>
           </div>
         </div>
