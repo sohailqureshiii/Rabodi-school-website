@@ -96,7 +96,7 @@ const Teacher = () => {
               </div>
               <h2 className="texher-name-asec-tkdjs">Shaikh Husna Ziauddin</h2>
               <p className="tecjr-gradutaion-seuhrk">
-                M.A, B.ED, M.ED ,(PET Exam Qualified), PHD Enterance Test
+                M.A, B.ED, M.ED , PHD Enterance Test Exam Qualified
               </p>
             </div>
           </div>
