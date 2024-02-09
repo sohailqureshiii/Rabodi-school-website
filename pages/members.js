@@ -268,7 +268,7 @@ const Members = () => {
                 </div>
               </div>
               <h2 className="texher-name-asec-tkdjs">
-                Mohammed bilal Mohammed qasim Qureshi
+                Mohammed Bilal Mohammed Qasim Qureshi
               </h2>
               <p className="tecjr-gradutaion-seuhrk">Member</p>
             </div>

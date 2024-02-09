@@ -151,9 +151,9 @@ const Abouttrust = () => {
                 pray for his continued good health and unwavering support and
                 guidance for our institution and its schools.
               </p>
-              <p className="name-of-tessrj-and-general-securit">
+              {/* <p className="name-of-tessrj-and-general-securit">
                 - Farhana Firoz Shaikh , Head Mistress
-              </p>
+              </p> */}
             </div>
             <div className="brdr-left-fr-messangessld">
               <div className="flx-fr-respo-dsjjkm">
