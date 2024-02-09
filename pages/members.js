@@ -80,7 +80,7 @@ const Members = () => {
               </div>
 
               <h2 className="texher-name-asec-tkdjs">Mr. Asim Javed Shaikh</h2>
-              <p className="tecjr-gradutaion-seuhrk">vice president</p>
+              <p className="tecjr-gradutaion-seuhrk">Vice president</p>
             </div>
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">

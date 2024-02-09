@@ -229,7 +229,7 @@ const aboutus = () => {
                     <br />➽ To forge the students with a strong character
                     comprised of integrity and leadership. The very vision has
                     been translated in to mission in term of disseminate
-                    knowledge impacting skills, provide information and create a
+                    knowledge imparting skills, provide information and create a
                     conducive environment for growth of a child in body, mind
                     and spirit. The task has been very well implemented by the
                     committed staff. Special thanks to our committed staff who
@@ -280,13 +280,13 @@ const aboutus = () => {
           <div className="text">
             <span>Working Hours : 07:00am to 05:30pm</span>
             <span> Phone : +91 98928 14653</span>
-            <span> Email : rfces@gmail.com</span>
+            <span> Email : Rfces.manage@gmail.com</span>
             <span> Address : Rehmat Ali Road, 1st Rabodi ,Thane(W)</span>
           </div>
           <div className="text">
             <span>Working Hours : 07:00am to 05:30pm</span>
             <span> Phone : +91 98928 14653</span>
-            <span> Email : rfces@gmail.com</span>
+            <span> Email : Rfces.manage@gmail.com</span>
             <span> Address : REHMAT ALI ROAD, 1st Rabodi ,THANE(W)</span>
           </div>
         </div>

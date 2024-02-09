@@ -66,7 +66,7 @@ const Contactus = () => {
               </div>
               <div className="tp-mrgin-sectiom-sjfk">
                 <Image src={Email} className="svg-at-sd-cntct-sectoi-dsjnmc" />
-                <p className="secnd-aline-para-dkjsk">rfces@gmail.com</p>
+                <p className="secnd-aline-para-dkjsk">Rfces.manage@gmail.com</p>
                 <p className="asdf-cald-irjnascjnkwe-df">
                   Drop us a line anytime!
                 </p>

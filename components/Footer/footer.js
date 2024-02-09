@@ -69,7 +69,7 @@ const Footer = () => {
                     Phone : +91 98928 14653
                   </li>
                   <li className="links-at-ftr-st-sdjk">
-                    Email : rfces@gmail.com
+                    Email : Rfces.manage@gmail.com
                   </li>
                   <li className="links-at-ftr-st-sdjk">
                     Address : REHMAT ALI ROAD, 1st Rabodi ,THANE(W)

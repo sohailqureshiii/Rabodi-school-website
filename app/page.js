@@ -146,13 +146,13 @@ export default function Home() {
           <div className="text">
             <span>Working Hours : 07:00am to 05:30pm</span>
             <span> Phone : +91 98928 14653</span>
-            <span> Email : rfces@gmail.com</span>
+            <span> Email : Rfces.manage@gmail.com</span>
             <span> Address : Rehmat Ali Road, 1st Rabodi ,Thane(W)</span>
           </div>
           <div className="text">
             <span>Working Hours : 07:00am to 05:30pm</span>
             <span> Phone : +91 98928 14653</span>
-            <span> Email : rfces@gmail.com</span>
+            <span> Email : Rfces.manage@gmail.com</span>
             <span> Address : REHMAT ALI ROAD, 1st Rabodi ,THANE(W)</span>
           </div>
         </div>
@@ -336,8 +336,8 @@ export default function Home() {
                       Rabodi Friends' Circle Urdu High School
                     </h3>
                     <p className="parase-at-ds-loew-dsect-s">
-                      long established fact that a reader will be distracted by
-                      the readable content
+                      Providing a robust grounding in fundamental subjects,
+                      paving the way for academic excellence.
                     </p>
                   </div>
                 </div>
