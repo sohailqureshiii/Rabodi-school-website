@@ -59,7 +59,7 @@ const Contactus = () => {
                 />
                 <p className="secnd-aline-para-dkjsk">Thane</p>
                 <p className="asdf-cald-irjnascjnkwe-df">
-                  REHMAT ALI ROAD, 1 RABODI ,
+                  REHMAT ALI ROAD, 1st RABODI ,
                   <br />
                   THANE(W)
                 </p>
