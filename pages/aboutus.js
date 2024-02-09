@@ -250,7 +250,7 @@ const aboutus = () => {
                   <p className="para-dfr-fore-sect-a-abt-sd">
                     The Rabodi Friends' Circle Education Society Commenced by
                     the name as Rabodi Friends’ Circle with a small gymnasium at
-                    1 rabodi , thane. Formed by small group of youths in the
+                    1st Rabodi , thane. Formed by small group of youths in the
                     year 1974 and duly got registered by Government Charity Act
                     in the year 1976. Our educational era started with
                     Pre-Primary school viz Rabodi Friends' Circle Pre-Primary
@@ -281,13 +281,13 @@ const aboutus = () => {
             <span>Working Hours : 07:00am to 05:30pm</span>
             <span> Phone : +91 98928 14653</span>
             <span> Email : rfces@gmail.com</span>
-            <span> Address : Rehmat Ali Road, 1 Rabodi ,Thane(W)</span>
+            <span> Address : Rehmat Ali Road, 1st Rabodi ,Thane(W)</span>
           </div>
           <div className="text">
             <span>Working Hours : 07:00am to 05:30pm</span>
             <span> Phone : +91 98928 14653</span>
             <span> Email : rfces@gmail.com</span>
-            <span> Address : REHMAT ALI ROAD, 1 RABODI ,THANE(W)</span>
+            <span> Address : REHMAT ALI ROAD, 1st Rabodi ,THANE(W)</span>
           </div>
         </div>
       </>

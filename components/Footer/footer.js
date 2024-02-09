@@ -72,7 +72,7 @@ const Footer = () => {
                     Email : rfces@gmail.com
                   </li>
                   <li className="links-at-ftr-st-sdjk">
-                    Address : REHMAT ALI ROAD, 1 RABODI ,THANE(W)
+                    Address : REHMAT ALI ROAD, 1st Rabodi ,THANE(W)
                   </li>
                   <li className="links-at-ftr-st-sdjk">
                     Working Hours : 07:00am to 05:30pm

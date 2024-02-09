@@ -147,13 +147,13 @@ export default function Home() {
             <span>Working Hours : 07:00am to 05:30pm</span>
             <span> Phone : +91 98928 14653</span>
             <span> Email : rfces@gmail.com</span>
-            <span> Address : Rehmat Ali Road, 1 Rabodi ,Thane(W)</span>
+            <span> Address : Rehmat Ali Road, 1st Rabodi ,Thane(W)</span>
           </div>
           <div className="text">
             <span>Working Hours : 07:00am to 05:30pm</span>
             <span> Phone : +91 98928 14653</span>
             <span> Email : rfces@gmail.com</span>
-            <span> Address : REHMAT ALI ROAD, 1 RABODI ,THANE(W)</span>
+            <span> Address : REHMAT ALI ROAD, 1st Rabodi ,THANE(W)</span>
           </div>
         </div>
       </>
