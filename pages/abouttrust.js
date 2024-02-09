@@ -10,6 +10,7 @@ import AbdulMajeed from "../public/MajeedB.jpg";
 import Saeeds from "../public/Saeeds.jpg";
 import BackGrndimage from "../public/bg-kids2.jpg";
 import CallSvg from "../public/phone-call.svg";
+import Mateen from "../public/Mateens.jpg";
 import Footer from "@/components/Footer/footer";
 
 const Abouttrust = () => {
@@ -127,46 +128,43 @@ const Abouttrust = () => {
               General Secretary
             </p>
             <p className="para-ofr-tresusre-adm-rjeks">
-              Appointed General secretary from 09/10/2016 A Arts graduate with
-              L.L.B, LGS, A retired Assistant Assessor & Collector of Mumbai
-              Mahanagar Palika , Ex. President of Anjuman-e-Khandesh and Member
-              of Ideal Education Society,Rabodi ,Thane. Member of Muslim
-              Education & Welfare Association ,Rabodi,Thane.
+              General Secretary. He was appointed as the General Secretary on
+              09/10/2016. He is an Arts graduate with LL. B and LGS degrees, and
+              He previously served as a retired Assistant Assessor & Collector
+              of Mumbai Mahanagar Palika. Additionally, He was the former
+              President of Anjuman-eKhandesh and a Member of the Ideal Education
+              Society in Rabodi, Thane. He is also a member of the Muslim
+              Education & Welfare Association in Rabodi, Thane.
             </p>
           </div>
-          <div className="bat-shadow-cntr-at-sbt-su-sectoa">
-            <h2 className="hdr-fr-this-scekja-kodklfm">Mr Matin Shaikh</h2>
-            <p className="name-of-tessrj-and-general-securit">
-              Treasurer & Chairman Education Committee
-            </p>
-            <p className="para-at-ashadew-sect-pad-ejk">
-              Honorable students, esteemed parents, and respected viewers, I am
-              honored to introduce to you Mr. Muhammad Matin Sheikh, the current
-              Treasurer & Chairman Education Committee and former general
-              secretary of the Rabori Friends Circle Education Society. He has
-              been a stalwart member of this institution since its inception,
-              serving as its first general secretary and playing a pivotal role
-              in its establishment and growth. A pillar of our academic, social,
-              and cultural circles, he stood shoulder to shoulder with the late
-              Javed Sheikh, the institution's former president, in laying the
-              foundation for the schools that continue to thrive under our
-              aegis. From securing school permits to ensuring their stability,
-              he has been an indispensable force, tirelessly contributing to the
-              institution's progress. Capturing the essence of an exceptional
-              individual like he is a daunting task, yet it is also imperative,
-              for under his guidance and leadership, our schools have scaled new
-              heights of success. An eloquent speaker and a compassionate soul,
-              he has never turned a blind eye to students facing financial
-              constraints, extending a helping hand to ensure their educational
-              continuity. His empathetic approach has also inspired positive
-              transformations among the teaching fraternity. We pray to Almighty
-              Allah to grant he longevity and continued good health, ensuring
-              that his unwavering support and guidance remain available to our
-              institution and its schools.
-            </p>
-            <p className="name-of-tessrj-and-general-securit">
-              - Farhana Firoz Shaikh , Head Mistress
-            </p>
+
+          <div className="slx-im-with-message-sectiona-djn">
+            <div>
+              <p className="lind-ht-fr-set-psojd-mkksd">
+                He has been an integral part of our institution since its
+                inception, serving as its first General Secretary and playing a
+                crucial role in its establishment and growth. Mr. Mohd Mateen
+                Shaikh has been instrumental in securing school permits and
+                ensuring stability, contributing significantly to the
+                institution's progress. His compassionate approach has inspired
+                positive transformations among both students and teachers. We
+                pray for his continued good health and unwavering support and
+                guidance for our institution and its schools.
+              </p>
+              <p className="name-of-tessrj-and-general-securit">
+                - Farhana Firoz Shaikh , Head Mistress
+              </p>
+            </div>
+            <div className="brdr-left-fr-messangessld">
+              <div className="flx-fr-respo-dsjjkm">
+                <Image src={Mateen} className="shejk-stenam-opansc" />
+              </div>
+              <h2 className="name-of-meessahner-president">Mr Mateen Shaikh</h2>
+              <p className="posution-of-meeagneg-secrion">
+                {" "}
+                Treasurer & Chairman Education Committee
+              </p>
+            </div>
           </div>
         </div>
       </div>
@@ -191,7 +189,7 @@ const Abouttrust = () => {
                 forever…Destiny has better plans for the people with
                 perseverance. I was invited for a school program and the school
                 was functioning with extremely limited resources under a shade
-                and was at its infancy phase. Hence, I dedicated myself for the
+                and was at it's infancy phase. Hence, I dedicated myself for the
                 benefit and welfare of the school to serve the needy students of
                 the society. Through persistence and the grace of Allah (SWT),
                 that shade turned in a spacious building for the students. I
@@ -252,7 +250,7 @@ const Abouttrust = () => {
                 healthy and comfortable workplace. We have always placed a
                 healthy work environment in the topmost hierarchy of the
                 pyramid. An organization can never flourish until it allows
-                space to its faculty, students and management to voice their
+                space to it's faculty, students and management to voice their
                 opinions and feedback. This freedom of voice and cooperation has
                 helped our organization to achieve the strength of unity that we
                 cherish today and the same has helped us to cover this long
@@ -291,7 +289,7 @@ const Abouttrust = () => {
                 </p>
                 <div className="button-at-sjkbnsd">
                   <Image src={CallSvg} className="sertre-oriklf-aznsm" />
-                  <p className="number-phn-nmbr-sect-ssdjk">022-2542-9174</p>
+                  <p className="number-phn-nmbr-sect-ssdjk">+91 98928 14653</p>
                 </div>
               </div>
               <div>

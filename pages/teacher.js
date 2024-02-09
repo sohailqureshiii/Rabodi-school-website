@@ -6,7 +6,8 @@ const myFont = localFont({ src: "../fonts/Raleway-Medium.ttf" });
 import Tearchers from "../public/hijab_icon.png";
 import TeSir from "../public/teacher_boy_icon.png";
 import LeftSchoolAdd from "../public/IMG_2577.jpg";
-
+import Shehbaz from "../public/Shehbaz sir.jpg";
+import Naseeb from "../public/Naseeb mulla.JPG";
 import Image from "next/image";
 import Footer from "@/components/Footer/footer";
 import CallSvg from "../public/phone-call.svg";
@@ -45,7 +46,10 @@ const Teacher = () => {
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
                 <div className="flxin-cnt-tchr-img-sjjd">
-                  <Image src={TeSir} className="teacher-ghrapic-imageskdsk" />
+                  <Image
+                    src={Naseeb}
+                    className="teacher-ghrapic-imageskdsk brdr-radius-stkjsm"
+                  />
                 </div>
               </div>
               <h2 className="texher-name-asec-tkdjs">
@@ -63,7 +67,9 @@ const Teacher = () => {
                 </div>
               </div>
               <h2 className="texher-name-asec-tkdjs">Sualeha Azhar Khan</h2>
-              <p className="tecjr-gradutaion-seuhrk">M.A,B.ED,,M.phil (Urdu)</p>
+              <p className="tecjr-gradutaion-seuhrk">
+                M.A, B.ED, M.phil (Urdu)
+              </p>
             </div>
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
@@ -88,9 +94,9 @@ const Teacher = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Shaikh Husna Ziyauddin</h2>
+              <h2 className="texher-name-asec-tkdjs">Shaikh Husna Ziauddin</h2>
               <p className="tecjr-gradutaion-seuhrk">
-                M.A, B.ED, M.ED ,(PET Exam Qualified)
+                M.A, B.ED, M.ED ,(PET Exam Qualified), PHD Enterance Test
               </p>
             </div>
           </div>
@@ -111,8 +117,10 @@ const Teacher = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Shaikh Farhana (H/M)</h2>
-              <p className="tecjr-gradutaion-seuhrk">D.ed, B.A, B.ed</p>
+              <h2 className="texher-name-asec-tkdjs">
+                Farhana Firoz Shaikh (H/M)
+              </h2>
+              <p className="tecjr-gradutaion-seuhrk">H.S.C, D.ed, B.A, B.ed</p>
             </div>
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
@@ -123,8 +131,10 @@ const Teacher = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Shaikh Noorjahan</h2>
-              <p className="tecjr-gradutaion-seuhrk">D.ed, B.A, B.ed</p>
+              <h2 className="texher-name-asec-tkdjs">
+                Noorjahan Shakil Shaikh
+              </h2>
+              <p className="tecjr-gradutaion-seuhrk">H.S.C, D.ed, B.A, B.ed</p>
             </div>
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
@@ -135,8 +145,8 @@ const Teacher = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Qazi Mehfooza Hamid</h2>
-              <p className="tecjr-gradutaion-seuhrk">D.ed, B.A</p>
+              <h2 className="texher-name-asec-tkdjs">Mehfooza Hamid Qazi</h2>
+              <p className="tecjr-gradutaion-seuhrk">H.S.C, D.ed, B.A</p>
             </div>
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
@@ -147,8 +157,10 @@ const Teacher = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Shaikh Anjum Aara</h2>
-              <p className="tecjr-gradutaion-seuhrk">D.ed, B.A, B.ed</p>
+              <h2 className="texher-name-asec-tkdjs">
+                Anjum Aara Mohammed Irshad Shaikh
+              </h2>
+              <p className="tecjr-gradutaion-seuhrk">H.S.C, D.ed, B.A, B.ed</p>
             </div>
           </div>
           <div className="flx-in-images-of-teahers-st-akjs">
@@ -161,8 +173,22 @@ const Teacher = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Chiplunkar Rehana</h2>
-              <p className="tecjr-gradutaion-seuhrk">D.ed, B.A</p>
+              <h2 className="texher-name-asec-tkdjs">Rehana Adam Chiplunkar</h2>
+              <p className="tecjr-gradutaion-seuhrk">H.S.C, D.ed, B.A</p>
+            </div>
+            <div className="cntr-a-dhjs-ewoiknxz-zsd">
+              <div className="flx-in-for-responcve-view-only">
+                <div className="flxin-cnt-tchr-img-sjjd">
+                  <Image
+                    src={Shehbaz}
+                    className="teacher-ghrapic-imageskdsk brdr-radius-stkjsm"
+                  />
+                </div>
+              </div>
+              <h2 className="texher-name-asec-tkdjs">
+                Shahebaz Abdul Khalique Shaikh
+              </h2>
+              <p className="tecjr-gradutaion-seuhrk">H.S.C, D.ed, B.A</p>
             </div>
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
@@ -173,18 +199,10 @@ const Teacher = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Ansari Iram</h2>
-              <p className="tecjr-gradutaion-seuhrk">D.ed, B.A</p>
+              <h2 className="texher-name-asec-tkdjs">Iram Saba Asad Mukri</h2>
+              <p className="tecjr-gradutaion-seuhrk">H.S.C, D.ed, B.A</p>
             </div>
-            <div className="cntr-a-dhjs-ewoiknxz-zsd">
-              <div className="flx-in-for-responcve-view-only">
-                <div className="flxin-cnt-tchr-img-sjjd">
-                  <Image src={TeSir} className="teacher-ghrapic-imageskdsk" />
-                </div>
-              </div>
-              <h2 className="texher-name-asec-tkdjs">Shaikh Shebaz</h2>
-              <p className="tecjr-gradutaion-seuhrk">D.ed, B.A</p>
-            </div>
+
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
                 <div className="flxin-cnt-tchr-img-sjjd">
@@ -194,8 +212,8 @@ const Teacher = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Khan Zareena</h2>
-              <p className="tecjr-gradutaion-seuhrk">D.ed, B.com, B.A</p>
+              <h2 className="texher-name-asec-tkdjs">Zareena Mushir Khan</h2>
+              <p className="tecjr-gradutaion-seuhrk">H.S.C, D.ed, B.com, B.A</p>
             </div>
           </div>
           <div className="flx-in-for-ht-lne-area-djks">
@@ -216,7 +234,7 @@ const Teacher = () => {
                 </div>
               </div>
               <h2 className="texher-name-asec-tkdjs">Shabina Altaf Shaikh</h2>
-              <p className="tecjr-gradutaion-seuhrk">SSC.Montassory</p>
+              <p className="tecjr-gradutaion-seuhrk">SSC. Montassory</p>
             </div>
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
@@ -227,8 +245,8 @@ const Teacher = () => {
                   />
                 </div>
               </div>
-              <h2 className="texher-name-asec-tkdjs">Sayed Mubina Rizwanr</h2>
-              <p className="tecjr-gradutaion-seuhrk">HSC.EC.Ced</p>
+              <h2 className="texher-name-asec-tkdjs">Mubina Sayed Rizwan</h2>
+              <p className="tecjr-gradutaion-seuhrk">HSC. EC. Ced</p>
             </div>
           </div>
         </div>
@@ -242,6 +260,34 @@ const Teacher = () => {
         <div className="displayflexat-ns " style={myFont.style}>
           <div className="header-layout-at-main-section">
             <div className="flx-in-ffr-tw-ier-sdjnm top-maron-stduj">
+              <div className="clr-scetion-for-jdkvn clr-green">
+                <div className="white-bckrnd-aect-abt-abt-sect">
+                  <p className="udr-words-jfdoa-dkjs">
+                    چمنزار محبت میں ا سی نے با غبا نی کی <br />
+                    کہ جس نے ا پنی محنت ہی کو محنت کا ثمر جانا
+                  </p>
+                  <p className="paras-at-sect-siijd-sokes-fjkm">
+                    {" "}
+                    Peace and blessings to all my students, their parents and
+                    the management. I, Principal of Rabodi Friends’ Circle (RFC)
+                    Urdu High School welcome you graciously to take a sneak peek
+                    of our small family. It is an absolute honour to lead such a
+                    visionary foundation and I am extremely humble to thank the
+                    pioneers of this school to consider me eligible for this
+                    extraordinary responsibility. This is a foundation which
+                    values educational opportunities for the new generation of
+                    our society. The value of Education is beyond measure and
+                    it's impact beyond imagination. The scope is limitless, and
+                    the efforts are less, no matter how much you put. But we
+                    believe that even a drop in the ocean can make a huge
+                    difference in the society if not today,
+                  </p>
+                  <h3 className="name-of-thr-messenger-at-sod">
+                    Dr. Mulla Nasibuddin Zainuddin (Principal)
+                  </h3>
+                  <p className="edut-of-the-mesenger-atfjjkdst">Principle</p>
+                </div>
+              </div>
               <div className="clr-scetion-for-jdkvn clr-drtfds">
                 <div className="white-bckrnd-aect-abt-abt-sect">
                   <p className="udr-words-jfdoa-dkjs">Assalamu Alaikum</p>
@@ -260,34 +306,6 @@ const Teacher = () => {
                     their kids, but their kids’ future. My respect and gratitude
                     lie with them as well. Now, it is our responsibility to
                     mould them in the best form we can, just like clay.
-                  </p>
-                  <h3 className="name-of-thr-messenger-at-sod">
-                    Dr. Mulla Nasibuddin Zainuddin (Principal)
-                  </h3>
-                  <p className="edut-of-the-mesenger-atfjjkdst">Principle</p>
-                </div>
-              </div>
-              <div className="clr-scetion-for-jdkvn clr-green">
-                <div className="white-bckrnd-aect-abt-abt-sect">
-                  <p className="udr-words-jfdoa-dkjs">
-                    چمنزار محبت میں ا سی نے با غبا نی کی <br />
-                    کہ جس نے ا پنی محنت ہی کو محنت کا ثمر جانا
-                  </p>
-                  <p className="paras-at-sect-siijd-sokes-fjkm">
-                    {" "}
-                    Peace and blessings to all my students, their parents and
-                    the management. I, Principal of Rabodi Friends’ Circle (RFC)
-                    Urdu High School welcome you graciously to take a sneak peek
-                    of our small family. It is an absolute honour to lead such a
-                    visionary foundation and I am extremely humble to thank the
-                    pioneers of this school to consider me eligible for this
-                    extraordinary responsibility. This is a foundation which
-                    values educational opportunities for the new generation of
-                    our society. The value of Education is beyond measure and
-                    its impact beyond imagination. The scope is limitless, and
-                    the efforts are less, no matter how much you put. But we
-                    believe that even a drop in the ocean can make a huge
-                    difference in the society if not today,
                   </p>
                   <h3 className="name-of-thr-messenger-at-sod">
                     Shaikh Farhana Firoz
@@ -316,7 +334,7 @@ const Teacher = () => {
                 </p>
                 <div className="button-at-sjkbnsd">
                   <Image src={CallSvg} className="sertre-oriklf-aznsm" />
-                  <p className="number-phn-nmbr-sect-ssdjk">022-2542-9174</p>
+                  <p className="number-phn-nmbr-sect-ssdjk">+91 98928 14653</p>
                 </div>
               </div>
               <div>

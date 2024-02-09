@@ -126,7 +126,7 @@ const Facilities = () => {
                     Hardcopies. Books! We do get bucket loaded information and
                     the treasure of knowledge from internet and other electronic
                     platforms, but if you want to feel close to a world which
-                    will take you away from the daily distractions and set your
+                    will take you away from the daily distractions and set you
                     free from the unwanted pollutants of the surroundings, books
                     are your true friends who will accompany you till your
                     destination.

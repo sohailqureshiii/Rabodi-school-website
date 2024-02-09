@@ -31,19 +31,23 @@ export default function Home() {
           <div className="displayflexat-ns">
             <div className="header-layout-at-main-section">
               <div className="top-fr-bckrnd-sections-jkdf">
-                <h3 className="whte-first-hdr-welcome-secjkm">
-                  Hello! Welcome to
-                </h3>
+                <h3 className="whte-first-hdr-welcome-secjkm">Who We Are</h3>
                 <h1 className="hdr-section-one-areas-top-schl-name">
-                  Rabodi Friends' Circle Urdu High School
+                  Rabodi Friends' Circle Education Society
                 </h1>
                 <p className="para-at-section-ablout-us-riekljm">
-                  Our educational era started with Pre-Primary school named
-                  Rabodi Friends’ Circle Primary School in the year 1999 and the
-                  Primary School got operational from June 7, 2001. Our primary
-                  section was named Shafi Burondkar Primary School, with just 30
-                  headcounts back then, which has experienced a tremendous
-                  growth over the ages.
+                  Rabodi Friends' Circle is a dedicated educational organization
+                  that has been serving the community for decades. Founded in
+                  1974 by a group of like-minded individuals with a common goal
+                  of benefiting humanity, the organization has evolved into a
+                  leading educational institution known as Rabodi Friends'
+                  Circle education Society. With a strong commitment to the
+                  overall development of the youth in Rabodi, Thane, the
+                  organization has gradually and effectively implemented it's
+                  aims and objectives. Through it's unwavering dedication and
+                  tireless efforts, Rabodi Friends' Circle has become a
+                  respected and reputable institution that is admired by many
+                  for it's outstanding services and contributions to society.
                 </p>
                 <Link href={"/contactus"}>
                   <button className="cntc-us-btn-at-abt-sct-pge">
@@ -60,10 +64,13 @@ export default function Home() {
           <div className="bur-colr-section-at-ssecound-sct">
             <div className="displayflexat-ns " style={myFont.style}>
               <div className="header-layout-at-main-section">
-                <p className="section-main-hdr-fr-wht-sec">Who We Are</p>
+                <p className="section-main-hdr-fr-wht-sec">
+                  {" "}
+                  Hello! Welcome to
+                </p>
                 <h1 className="hone-section-at-rodn-skk">
                   Rabodi Friends' Circle
-                  <br /> Education Society
+                  <br /> Urdu High School
                 </h1>
               </div>{" "}
             </div>
@@ -74,18 +81,12 @@ export default function Home() {
             <div className="flx-nin-two-compo-at-sbic">
               <div className="widht-for-para-section-at-secound-sect">
                 <p className="first-para-at-schl-sectio-sjkdjs">
-                  Rabodi Friends' Circle is a dedicated educational organization
-                  that has been serving the community for decades. Founded in
-                  1974 by a group of like-minded individuals with a common goal
-                  of benefiting humanity, the organization has evolved into a
-                  leading educational institution known as Rabodi Friends'
-                  Circle education Society. With a strong commitment to the
-                  overall development of the youth in Rabodi, Thane, the
-                  organization has gradually and effectively implemented its
-                  aims and objectives. Through its unwavering dedication and
-                  tireless efforts, Rabodi Friends' Circle has become a
-                  respected and reputable institution that is admired by many
-                  for its outstanding services and contributions to society.
+                  Our educational era started with Pre-Primary school named
+                  Rabodi Friends’ Circle Primary School in the year 1999 and the
+                  Primary School got operational from June 7, 2001. Our primary
+                  section was named Shafi Burondkar Primary School, with just 30
+                  headcounts back then, which has experienced a tremendous
+                  growth over the ages.
                 </p>
               </div>
               <div className="third-left-top-minus-sect" style={myFont.style}>
@@ -129,7 +130,7 @@ export default function Home() {
                     <p className="number-achienved-by-shools-sdjk">750+</p>
                     <p className="secound-line-of-sleft-sdide">STUDENTS</p>
                     <p className="para-at-side-ltions">
-                      studenst currentlly
+                      studenst currently
                       <br />
                       studing
                     </p>
@@ -143,14 +144,14 @@ export default function Home() {
       <>
         <div className="scrolling_text" style={myFont.style}>
           <div className="text">
-            <span>Opening Hours : 07:00am to 05:30pm</span>
-            <span> Phone : 022-2542-9174</span>
+            <span>Working Hours : 07:00am to 05:30pm</span>
+            <span> Phone : +91 98928 14653</span>
             <span> Email : rfces@gmail.com</span>
             <span> Address : Rehmat Ali Road, 1 Rabodi ,Thane(W)</span>
           </div>
           <div className="text">
-            <span>Opening Hours : 07:00am to 05:30pm</span>
-            <span> Phone : 022-2542-9174</span>
+            <span>Working Hours : 07:00am to 05:30pm</span>
+            <span> Phone : +91 98928 14653</span>
             <span> Email : rfces@gmail.com</span>
             <span> Address : REHMAT ALI ROAD, 1 RABODI ,THANE(W)</span>
           </div>
@@ -308,7 +309,7 @@ export default function Home() {
                 <div className="wdht-fr-clr-back-sectkls">
                   <div className="white-backgrnd-atflx-er-sdhb">
                     <h3 className="hdr-at-box-section-in-lin-boxss-skj">
-                      Shafi Burondkar Pre- Primary Urdu School
+                      Shafi Burondkar Pre- Primary School
                     </h3>
                     <p className="parase-at-ds-loew-dsect-s">
                       Providing a nurturing and playful environment for young
@@ -316,17 +317,7 @@ export default function Home() {
                     </p>
                   </div>
                 </div>
-                <div className="wdht-fr-clr-back-sectkls clr-red">
-                  <div className="white-backgrnd-atflx-er-sdhb">
-                    <h3 className="hdr-at-box-section-in-lin-boxss-skj">
-                      Rabodi Friends Circle Urdu High School
-                    </h3>
-                    <p className="parase-at-ds-loew-dsect-s">
-                      long established fact that a reader will be distracted by
-                      the readable content
-                    </p>
-                  </div>
-                </div>
+
                 <div className="wdht-fr-clr-back-sectkls clr-blue">
                   <div className="white-backgrnd-atflx-er-sdhb">
                     <h3 className="hdr-at-box-section-in-lin-boxss-skj">
@@ -335,6 +326,18 @@ export default function Home() {
                     <p className="parase-at-ds-loew-dsect-s">
                       Offering a strong foundation in core subjects to prepare
                       students for academic success.
+                    </p>
+                  </div>
+                </div>
+
+                <div className="wdht-fr-clr-back-sectkls clr-red">
+                  <div className="white-backgrnd-atflx-er-sdhb">
+                    <h3 className="hdr-at-box-section-in-lin-boxss-skj">
+                      Rabodi Friends Circle Urdu High School
+                    </h3>
+                    <p className="parase-at-ds-loew-dsect-s">
+                      long established fact that a reader will be distracted by
+                      the readable content
                     </p>
                   </div>
                 </div>
@@ -382,7 +385,7 @@ export default function Home() {
                   in my academic and professional journey. The solid foundation,
                   dynamic learning environment, and values-driven education
                   shaped my character. Proud to be an alum of a school that
-                  genuinely cares about its students' success and well-being.
+                  genuinely cares about it's students' success and well-being.
                 </p>
                 {/* <div className="flxin-scntr-img-of-studnet">
                   <Image src={Studentsthree} className="sdfghjdsrtgfdsdfghb" />
@@ -411,7 +414,9 @@ export default function Home() {
                   </p>
                   <div className="button-at-sjkbnsd">
                     <Image src={CallSvg} className="sertre-oriklf-aznsm" />
-                    <p className="number-phn-nmbr-sect-ssdjk">022-2542-9174</p>
+                    <p className="number-phn-nmbr-sect-ssdjk">
+                      +91 98928 14653
+                    </p>
                   </div>
                 </div>
                 <div>

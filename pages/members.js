@@ -105,7 +105,7 @@ const Members = () => {
               <h2 className="texher-name-asec-tkdjs">
                 Mr. Abdussaeed Moosa Shaikh
               </h2>
-              <p className="tecjr-gradutaion-seuhrk">Vice president</p>
+              <p className="tecjr-gradutaion-seuhrk">General Secretary</p>
             </div>
           </div>
           <div className="flx-in-images-of-teahers-st-akjs">
@@ -119,7 +119,7 @@ const Members = () => {
                 </div>
               </div>
               <h2 className="texher-name-asec-tkdjs">
-                Mohd. Matin Jamaluddin Shaikh
+                Mohd. Mateen Jamaluddin Shaikh
               </h2>
               <p className="tecjr-gradutaion-seuhrk">
                 Treasurer & Chairman Education Committee

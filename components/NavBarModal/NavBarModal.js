@@ -1,7 +1,7 @@
 import React from "react";
 import Image from "next/image";
 import Link from "next/link";
-import MainLogo from "../../public/rfces logo.png";
+import MainLogo from "../../public/WhatsApp_Image_2024-02-09_at_6.26.38_PM-removebg-preview.png";
 const myFont = localFont({ src: "../../fonts/Raleway-Medium.ttf" });
 import localFont from "next/font/local";
 const NavModal = (props) => {

@@ -47,7 +47,7 @@ const Contactus = () => {
                   src={CallSvg}
                   className="svg-at-sd-cntct-sectoi-dsjnmc"
                 />
-                <p className="secnd-aline-para-dkjsk">022-2542-9174</p>
+                <p className="secnd-aline-para-dkjsk">+91 98928 14653</p>
                 <p className="asdf-cald-irjnascjnkwe-df">
                   Call us: Mon - Fri 9:00 - 19:00
                 </p>
@@ -76,7 +76,7 @@ const Contactus = () => {
                   src={Opening}
                   className="svg-at-sd-cntct-sectoi-dsjnmc"
                 />
-                <p className="secnd-aline-para-dkjsk">Opening Hours</p>
+                <p className="secnd-aline-para-dkjsk">Working Hours</p>
                 <p className="asdf-cald-irjnascjnkwe-df">07:00am to 05:30pm</p>
               </div>
               <div>

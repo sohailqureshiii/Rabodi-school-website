@@ -416,6 +416,7 @@ li {
   display: flex;
   white-space: nowrap;
   margin: 2em 0em 4em 0em;
+  gap: 2em;
 }
 
 .text {
@@ -646,10 +647,10 @@ li {
 }
 
 .bckrd-wht-fr-logods-ftr {
-  height: 200px;
+  /* height: 200px;
   width: 200px;
   border-radius: 50%;
-  background: #fff;
+  background: #fff; */
 }
 
 .flx-in-ftr-section-cntr {
@@ -1078,7 +1079,7 @@ li {
 }
 
 .top-fr-bckrnd-sections-jkdf {
-  margin-top: 14em;
+  margin-top: 10em;
 }
 .whte-first-hdr-welcome-secjkm {
   color: #fff;
@@ -1087,16 +1088,16 @@ li {
 }
 
 .hdr-section-one-areas-top-schl-name {
-  margin-top: 45px;
+  margin-top: 25px;
   color: #fff;
   font-size: 64px;
 }
 
 .para-at-section-ablout-us-riekljm {
-  margin-top: 45px;
+  margin-top: 25px;
   color: #fff;
   line-height: 35px;
-  font-size: 22px;
+  font-size: 18px;
   border-left: 5px solid #fff;
   padding-left: 25px;
 }
@@ -1354,6 +1355,12 @@ li {
   width: 13em;
   height: 13em;
   margin-top: -18px;
+}
+.brdr-radius-stkjsm {
+  border-radius: 50%;
+  margin-top: 0px;
+  width: 16em;
+  height: 16em;
 }
 
 .flxin-cnt-tchr-img-sjjd {
@@ -1724,7 +1731,7 @@ li {
 }
 
 /* -------    Style starts for Responsive -----------  */
-@media (min-width: 320px) and (max-width: 426px) {
+@media (min-width: 320px) and (max-width: 452px) {
   .justify-and-other-navbar {
     display: none;
   }
@@ -2283,10 +2290,10 @@ li {
     width: 100%;
   }
   .bckrd-wht-fr-logods-ftr {
-    height: 100px;
+    /* height: 100px;
     width: 100px;
     border-radius: 50%;
-    background: #fff;
+    background: #fff; */
   }
   .footers-section-logo {
     height: 100px;

@@ -41,7 +41,7 @@ const Outribute = () => {
                 Marhoom Javed Haroon Shaikh
               </h2>
               <p className="para-at-ashadew-sect-pad-ejk apscoenwas-cnjk">
-                In loving memory of the esteemed Muhammad Javed Haroon Sheikh,
+                In loving memory of the esteemed Muhammad Javed Haroon Shaikh,
                 the founding member and first president of Rabodi Friends
                 Circle, we pay tribute to his remarkable contributions to our
                 school. Established in 1974, under his visionary leadership, the
@@ -51,9 +51,9 @@ const Outribute = () => {
                 presidency, evolved into an esteemed educational society. Today,
                 it stands as a reliable institution known as Shafi Burondkar
                 Primary School and Rabodi Friends Circle High School. The
-                unwavering dedication of Mr. Javed Sheikh, along with the
-                invaluable partnership of Burundkar Sahib, played a pivotal role
-                in the school's growth and development. Mr. Javed Sheikh was a
+                unwavering dedication of Mr. Javed Shaikh, along with the
+                invaluable partnership of Burondkar Sahib, played a pivotal role
+                in the school's growth and development. Mr. Javed Shaikh was a
                 person of utmost sincerity, serving as a core member of several
                 renowned institutions in Rabodi. His spirit served as a beacon
                 of inspiration for thousands of students, teachers, and
@@ -62,10 +62,10 @@ const Outribute = () => {
                 community work were truly commendable. Not only was he held in
                 high esteem by his fellow countrymen, but he was also a symbol
                 of Hindu-Muslim unity and a pioneer of national cohesion. Fluent
-                in English and Marathi, Mr. Javed Sheikh effortlessly bridged
+                in English and Marathi, Mr. Javed Shaikh effortlessly bridged
                 linguistic and cultural gaps, fostering harmony and
                 understanding among diverse communities. We pray that Mr. Javed
-                Sheikh's noble soul finds an exalted place in Jannat al-Firdous,
+                Shaikh's noble soul finds an exalted place in Jannat al-Firdous,
                 and may he receive the highest reward for his extraordinary
                 contributions to the field of education. His legacy will forever
                 resonate within the corridors of our school, inspiring
@@ -74,14 +74,14 @@ const Outribute = () => {
             </div>
             <div className="bat-shadow-cntr-at-sbt-su-sectoa">
               <h2 className="hdr-fr-this-scekja-kodklfm">
-                Marhoom Qasim Qureshi Sahab
+                Marhoom Qasim Qureshi
               </h2>
               <p className="para-at-ashadew-sect-pad-ejk apscoenwas-cnjk">
-                The late Qasim Qureshi Sahab, may Allah bless his soul, played a
+                The late Qasim Qureshi, may Allah bless his soul, played a
                 significant role in the Rabodi Friends' Circle Education Society
-                from its inception. He began his journey by being elected as a
-                corporator of the Thane Municipal Corporation. Qasim Sahab was
-                an active member of numerous organizations in Rabodi, serving as
+                from it's inception. He began his journey by being elected as a
+                corporator of the Thane Municipal Corporation. Qasim was an
+                active member of numerous organizations in Rabodi, serving as
                 the General Secretary of Islami Dini Jamat and Madarsa
                 Madeenatul Uloom. He also held the position of Vice President in
                 the Muslim Educational and Welfare Association, while actively
@@ -115,15 +115,15 @@ const Outribute = () => {
                   In loving memory of Mr. Nizam Sayyed, we commemorate his
                   remarkable role as a founding member of the Rabodi Friend
                   Circle Education Society. From the very inception of the
-                  society, Nizam Sayyed actively participated in its activities
-                  and contributed immensely to its growth and development. His
+                  society, Nizam Sayyed actively participated in it's activities
+                  and contributed immensely to it's growth and development. His
                   unwavering dedication and commitment to the society's mission
                   left a lasting impact on all who knew him. His presence was
                   felt in every event and school activity, as he generously
                   shared his wisdom and guidance. On the occasion of his death
                   anniversary on 19th February 2022, we remember his invaluable
                   contributions and pray to Almighty Allah to grant him a place
-                  in Jannah and bless his soul with eternal pe
+                  in Jannah and bless his soul with eternal peace
                 </p>
               </div>
               <div className="wid-fr-tress-and-oyhrre-mvdj-dfj">

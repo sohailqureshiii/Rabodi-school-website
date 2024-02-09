@@ -2,12 +2,14 @@ import React from "react";
 const myFont = localFont({ src: "../../fonts/Raleway-Medium.ttf" });
 import localFont from "next/font/local";
 import "../../app/globals.css";
-import MainLogo from "../../public/rfces logo.png";
+import MainLogo from "../../public/CC30B003-B5CE-4D25-B856-6A0FCD174D53 (1).PNG";
 import LinkedIn from "../../public/linkedin.svg";
-import Twitter from "../../public/social.svg";
+import Youtube from "../../public/youtube (2).svg";
 import Facebook from "../../public/facebook.svg";
+import Instagram from "../../public/instagram (1).svg";
 import Image from "next/image";
 import Link from "next/link";
+
 const Footer = () => {
   return (
     <>
@@ -64,7 +66,7 @@ const Footer = () => {
                 <div className="btm-line-s-fhjjns-rjk"></div>
                 <div className="cntr-for-link-section-dje">
                   <li className="links-at-ftr-st-sdjk">
-                    Phone : 022-2542-9174
+                    Phone : +91 98928 14653
                   </li>
                   <li className="links-at-ftr-st-sdjk">
                     Email : rfces@gmail.com
@@ -73,7 +75,7 @@ const Footer = () => {
                     Address : REHMAT ALI ROAD, 1 RABODI ,THANE(W)
                   </li>
                   <li className="links-at-ftr-st-sdjk">
-                    Opening Hours : 07:00am to 05:30pm
+                    Working Hours : 07:00am to 05:30pm
                   </li>
                 </div>
               </div>
@@ -84,9 +86,18 @@ const Footer = () => {
                 © Muster Media - 2024. All rights reserved.
               </h2>
               <div className="flx-in-setiojxkc-sejdka">
-                <Image src={LinkedIn} className="scial-inks-siocdnd-dsc" />
-                <Image src={Twitter} className="scial-inks-siocdnd-dsc" />
-                <Image src={Facebook} className="scial-inks-siocdnd-dsc" />
+                <a href="https://www.facebook.com/shafi.burondkar.school?mibextid=ZbWKwL">
+                  <Image src={Facebook} className="scial-inks-siocdnd-dsc" />
+                </a>
+                <a href="https://www.linkedin.com/in/shafi-burondkar-school-b00a822b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+                  <Image src={LinkedIn} className="scial-inks-siocdnd-dsc" />
+                </a>
+                <a href="https://www.instagram.com/shafi_burondkar_school?utm_source=qr&igsh=OHIxcTZjYTZ6c2sw">
+                  <Image src={Instagram} className="scial-inks-siocdnd-dsc" />
+                </a>
+                <a href="https://youtube.com/@shafiburondkarprimaryurdus3205?si=gskM9HRvapwBvPFg">
+                  <Image src={Youtube} className="scial-inks-siocdnd-dsc" />
+                </a>
               </div>
             </div>
             <div className="whit-line-at-kjsdklsd-jfvms"></div>

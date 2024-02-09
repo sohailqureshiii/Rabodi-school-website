@@ -4,7 +4,7 @@ import React from "react";
 import "../app/globals.css";
 import localFont from "next/font/local";
 const myFont = localFont({ src: "../fonts/Raleway-Medium.ttf" });
-import LeftImage from "../public/WhatsApp Image 2024-01-31 at 4.01.53 PM.jpeg";
+import LeftImage from "../public/IMG_2834.JPG";
 import Calender from "../public/calendar.svg";
 import Trophy from "../public/trophy.svg";
 import Medal from "../public/medal.svg";
@@ -174,16 +174,16 @@ const aboutus = () => {
                 </p>
                 <p className="flx-percentge-of-studnts-at-scjh">
                   {" "}
-                  Shah aasiya chaand 78.20% (2019)
+                  Shah Asiya Chaand 78.20% (2019)
                 </p>
                 <p className="flx-percentge-of-studnts-at-scjh">
-                  Yasmeen mujeeburrehman - 92.20% (2020)
+                  Ansari Yasmeen Mujeeburrehman - 92.20% (2020)
                 </p>
                 <p className="flx-percentge-of-studnts-at-scjh">
-                  Shaikh mushira masiulhaq - 89.40% (2021)
+                  Shaikh Mushira Masiulhaq - 89.40% (2021)
                 </p>
                 <p className="flx-percentge-of-studnts-at-scjh">
-                  Shaikh aaliya altaf - 89.40% (2022)
+                  Shaikh Aaliya Altaf - 89.40% (2022)
                 </p>
                 <p className="flx-percentge-of-studnts-at-scjh">
                   Khan Zaid Arif - 90.20% (2023)
@@ -224,12 +224,12 @@ const aboutus = () => {
                   <p className="para-dfr-fore-sect-a-abt-sd">
                     ➽ To provide students with superior quality education.
                     <br /> ➽ To promote self-discipline, motivation and
-                    creativit. <br />➽ To assist students become independent
+                    creativity. <br />➽ To assist students become independent
                     learners.
                     <br />➽ To forge the students with a strong character
                     comprised of integrity and leadership. The very vision has
                     been translated in to mission in term of disseminate
-                    knowledge impart skills, provide information and create a
+                    knowledge impact skills, provide information and create a
                     conducive environment for growth of a child in body, mind
                     and spirit. The task has been very well implemented by the
                     committed staff. Special thanks to our committed staff who
@@ -252,14 +252,14 @@ const aboutus = () => {
                     the name as Rabodi Friends’ Circle with a small gymnasium at
                     1 rabodi , thane. Formed by small group of youths in the
                     year 1974 and duly got registered by Government Charity Act
-                    in the year 1976. Our educational era was started with
-                    Pre-Primary school viz Rabodi Friends Circle Pre-Primary
+                    in the year 1976. Our educational era started with
+                    Pre-Primary school viz Rabodi Friends' Circle Pre-Primary
                     school in the year 1999 and the primary school which was
                     started on 7th June 2001 which was named Shafi Burondkar
                     Primary School with just 31 students now which has
                     experienced tremendous growth over the years. It is like the
                     mustard seed, which is smallest of all seeds but when it
-                    grows, to its full extent that the birds can make nest. At
+                    grows, to it's full extent that the birds can make nest. At
                     present we are conducting from Nursery to std. X classes in
                     our school by employing qualified teaching staff and other
                     non-teaching support staff.
@@ -278,14 +278,14 @@ const aboutus = () => {
       <>
         <div className="scrolling_text" style={myFont.style}>
           <div className="text">
-            <span>Opening Hours : 07:00am to 05:30pm</span>
-            <span> Phone : 022-2542-9174</span>
+            <span>Working Hours : 07:00am to 05:30pm</span>
+            <span> Phone : +91 98928 14653</span>
             <span> Email : rfces@gmail.com</span>
             <span> Address : Rehmat Ali Road, 1 Rabodi ,Thane(W)</span>
           </div>
           <div className="text">
-            <span>Opening Hours : 07:00am to 05:30pm</span>
-            <span> Phone : 022-2542-9174</span>
+            <span>Working Hours : 07:00am to 05:30pm</span>
+            <span> Phone : +91 98928 14653</span>
             <span> Email : rfces@gmail.com</span>
             <span> Address : REHMAT ALI ROAD, 1 RABODI ,THANE(W)</span>
           </div>
@@ -354,7 +354,7 @@ const aboutus = () => {
                 </p>
                 <div className="button-at-sjkbnsd">
                   <Image src={CallSvg} className="sertre-oriklf-aznsm" />
-                  <p className="number-phn-nmbr-sect-ssdjk">022-2542-9174</p>
+                  <p className="number-phn-nmbr-sect-ssdjk">+91 98928 14653</p>
                 </div>
               </div>
               <div>
