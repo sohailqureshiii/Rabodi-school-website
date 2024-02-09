@@ -105,11 +105,11 @@ const Facilities = () => {
                     for good reasons. Gone are the primitive days of standing
                     for hours for your native place train tickets booking. Don’t
                     you curse those stressed hours that you spent in the banks
-                    just to get your passbook updated to get the bank statement?
-                    Or think about the admission form queues after SSC, when you
-                    had to visit each college just to get the admission form.
-                    Now, things are available and possible on your fingertips
-                    few clicks away.
+                    just to get your passbook updated or to get the bank
+                    statement? Or think about the admission form queues after
+                    SSC, when you had to visit each college just to get the
+                    admission form. Now, things are available and possible on
+                    your fingertips few clicks away.
                   </p>
                 </div>
               </div>
