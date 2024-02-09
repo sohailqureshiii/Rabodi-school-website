@@ -98,7 +98,7 @@ export default function Home() {
                   <div>
                     <p className="number-achienved-by-shools-sdjk">1997</p>
                     <p className="secound-line-of-sleft-sdide">
-                      Year of Foundation
+                      Year Of Foundation
                     </p>
                     <p className="para-at-side-ltions">
                       Year of our
@@ -112,27 +112,27 @@ export default function Home() {
                       PRIMARY AWARDS
                     </p>
                     <p className="para-at-side-ltions">
-                      primary school
+                      Primary School
                       <br />
-                      awards
+                      Awards
                     </p>
                   </div>
                   <div>
                     <p className="number-achienved-by-shools-sdjk">04</p>
                     <p className="secound-line-of-sleft-sdide">HIGH AWARDS</p>
                     <p className="para-at-side-ltions">
-                      high school
+                      High School
                       <br />
-                      awards
+                      Awards
                     </p>
                   </div>
                   <div>
                     <p className="number-achienved-by-shools-sdjk">750+</p>
                     <p className="secound-line-of-sleft-sdide">STUDENTS</p>
                     <p className="para-at-side-ltions">
-                      studenst currently
+                      Studenst Currently
                       <br />
-                      studing
+                      Studing
                     </p>
                   </div>
                 </div>
