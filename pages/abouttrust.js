@@ -119,25 +119,33 @@ const Abouttrust = () => {
               />
             </div>
           </div>
-          <div className="bat-shadow-cntr-at-sbt-su-sectoa">
-            <h2 className="hdr-fr-this-scekja-kodklfm">
-              {" "}
-              Abdussaeed Moosa Shaikh
-            </h2>
-            <p className="name-of-tessrj-and-general-securit">
-              General Secretary
-            </p>
-            <p className="para-ofr-tresusre-adm-rjeks">
-              General Secretary. He was appointed as the General Secretary on
-              09/10/2016. He is an Arts graduate with LL. B and LGS degrees, and
-              He previously served as a retired Assistant Assessor & Collector
-              of Mumbai Mahanagar Palika. Additionally, He was the former
-              President of Anjuman-eKhandesh and a Member of the Ideal Education
-              Society in Rabodi, Thane. He is also a member of the Muslim
-              Education & Welfare Association in Rabodi, Thane.
-            </p>
-          </div>
 
+          <div className="slx-im-with-message-sectiona-djn">
+            <div>
+              <p className="lind-ht-fr-set-psojd-mkksd">
+                General Secretary. He was appointed as the General Secretary on
+                09/10/2016. He is an Arts graduate with LL. B and LGS degrees,
+                and He previously served as a retired Assistant Assessor &
+                Collector of Mumbai Mahanagar Palika. Additionally, He was the
+                former President of Anjuman-eKhandesh and a Member of the Ideal
+                Education Society in Rabodi, Thane. He is also a member of the
+                Muslim Education & Welfare Association in Rabodi, Thane.
+              </p>
+              {/* <p className="name-of-tessrj-and-general-securit">
+                - Farhana Firoz Shaikh , Head Mistress
+              </p> */}
+            </div>
+            <div className="brdr-left-fr-messangessld">
+              <div className="flx-fr-respo-dsjjkm">
+                <Image src={Saeeds} className="shejk-stenam-opansc" />
+              </div>
+              <h2 className="name-of-meessahner-president">
+                {" "}
+                Abdussaeed Moosa Shaikh
+              </h2>
+              <p className="posution-of-meeagneg-secrion">General Secretary</p>
+            </div>
+          </div>
           <div className="slx-im-with-message-sectiona-djn">
             <div>
               <p className="lind-ht-fr-set-psojd-mkksd">
