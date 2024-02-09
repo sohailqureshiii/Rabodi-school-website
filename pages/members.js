@@ -14,7 +14,7 @@ import Mukhtars from "../public/Mukhtars.jpg";
 import Rameez from "../public/Rameezghawte.jpg";
 import Ziya from "../public/Ziya.jpg";
 import Iqbal from "../public/Mr iqbal.jpg";
-import Munir from "../public/Munirsk.jpg";
+import Munir from "../public/Mohsin.jpg";
 import Atifshak from "../public/Aatifshaikkj.jpg";
 import Shanuqureshi from "../public/Shanuqureshi.jpg";
 import Hamidmansoori from "../public/Hamidmansoori.jpg";

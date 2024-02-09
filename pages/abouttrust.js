@@ -159,7 +159,10 @@ const Abouttrust = () => {
               <div className="flx-fr-respo-dsjjkm">
                 <Image src={Mateen} className="shejk-stenam-opansc" />
               </div>
-              <h2 className="name-of-meessahner-president">Mr Mateen Shaikh</h2>
+              <h2 className="name-of-meessahner-president">
+                {" "}
+                Mohd. Mateen Jamaluddin Shaikh
+              </h2>
               <p className="posution-of-meeagneg-secrion">
                 {" "}
                 Treasurer & Chairman Education Committee

@@ -49,7 +49,7 @@ const Contactus = () => {
                 />
                 <p className="secnd-aline-para-dkjsk">+91 98928 14653</p>
                 <p className="asdf-cald-irjnascjnkwe-df">
-                  Call us: Mon - Fri 9:00 - 19:00
+                  Call us: Mon - Fri 9:00 - 15:00
                 </p>
               </div>
               <div className="tp-mrgin-sectiom-sjfk">

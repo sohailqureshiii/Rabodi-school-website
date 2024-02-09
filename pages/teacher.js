@@ -81,7 +81,7 @@ const Teacher = () => {
                 </div>
               </div>
               <h2 className="texher-name-asec-tkdjs">
-                khan Nazia Tarannum Ayyub
+                Nazia Tarannum Ayyub khan
               </h2>
               <p className="tecjr-gradutaion-seuhrk">Bsc.B.ED</p>
             </div>
@@ -276,11 +276,9 @@ const Teacher = () => {
                     pioneers of this school to consider me eligible for this
                     extraordinary responsibility. This is a foundation which
                     values educational opportunities for the new generation of
-                    our society. The value of Education is beyond measure and
-                    it's impact beyond imagination. The scope is limitless, and
-                    the efforts are less, no matter how much you put. But we
-                    believe that even a drop in the ocean can make a huge
-                    difference in the society if not today,
+                    our society. Last statement.. But we believe that even a
+                    drop of ocean can make a huge difference in the society if
+                    not today surely in the future.**
                   </p>
                   <h3 className="name-of-thr-messenger-at-sod">
                     Dr. Mulla Nasibuddin Zainuddin (Principal)
