@@ -384,7 +384,7 @@ export default function Home() {
                   Rabodi Friends' Circle Education Society played a pivotal role
                   in my academic and professional journey. The solid foundation,
                   dynamic learning environment, and values-driven education
-                  shaped my character. Proud to be an alum of a school that
+                  shaped my character. Proud to be an alumnae of a school that
                   genuinely cares about it's students' success and well-being.
                 </p>
                 {/* <div className="flxin-scntr-img-of-studnet">
