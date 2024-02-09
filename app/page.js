@@ -16,7 +16,7 @@ import localFont from "next/font/local";
 import "../app/globals.css";
 import Footer from "@/components/Footer/footer";
 import ReactPlayer from "react-player";
-import BackgroundImage from "../public/WhatsApp Image 2024-01-31 at 4.01.53 PM.jpeg";
+import BackgroundImage from "../public/IMG_2834.JPG";
 import Link from "next/link";
 
 export default function Home() {
