@@ -17,7 +17,7 @@ import Iqbal from "../public/Mr iqbal.jpg";
 import Munir from "../public/Mohsin.jpg";
 import Atifshak from "../public/Aatifshaikkj.jpg";
 import Shanuqureshi from "../public/Shanuqureshi.jpg";
-import Hamidmansoori from "../public/Hamidmansoori.jpg";
+import Hamidmansoori from "../public/Danish.jpg";
 import Abdulh from "../public/Abdul hai (1).jpg";
 import Kabiruddin from "../public/Kabiruddin.jpg";
 import Majeeb from "../public/MajeedB.jpg";
