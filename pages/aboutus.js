@@ -59,10 +59,10 @@ const aboutus = () => {
               <Image src={LeftImage} className="left-img-fr-abt-us-image" />
               <p className="para-at-left-ridgt-section-sinkj">
                 Established in the year 1974 and duly registered in the year
-                1976, under the Trust Board Act, was a small body which took
-                face of an organization named Rabodi Friends’ Circle. The birth
-                of this then small entity took place with a goal to serve the
-                young minds of the under-developed locality named Rabodi, in
+                1976, under the Trust Board Act, was a small body which
+                transformed in an organization named Rabodi Friends’ Circle. The
+                birth of this then small entity took place with a goal to serve
+                the young minds of the under-developed locality named Rabodi, in
                 Thane. Initiation was with a rough sketch of our thoughts of
                 implementation which took a considerable shape and form with
                 multiple structured campaigns and activities with the help of
@@ -229,7 +229,7 @@ const aboutus = () => {
                     <br />➽ To forge the students with a strong character
                     comprised of integrity and leadership. The very vision has
                     been translated in to mission in term of disseminate
-                    knowledge impact skills, provide information and create a
+                    knowledge impacting skills, provide information and create a
                     conducive environment for growth of a child in body, mind
                     and spirit. The task has been very well implemented by the
                     committed staff. Special thanks to our committed staff who
