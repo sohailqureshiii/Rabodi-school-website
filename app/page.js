@@ -333,7 +333,7 @@ export default function Home() {
                 <div className="wdht-fr-clr-back-sectkls clr-red">
                   <div className="white-backgrnd-atflx-er-sdhb">
                     <h3 className="hdr-at-box-section-in-lin-boxss-skj">
-                      Rabodi Friends Circle Urdu High School
+                      Rabodi Friends' Circle Urdu High School
                     </h3>
                     <p className="parase-at-ds-loew-dsect-s">
                       long established fact that a reader will be distracted by

@@ -39,10 +39,10 @@ const Abouttrust = () => {
                 About School Trust
               </h2>
               <p className="para-at-abt-trust-secrtionsod">
-                RABODI FRIENDS CIRCLE EDUCATION SOCIETY commenced by the name
-                RABODI FRIENDS CIRCLE formed by small group of like minded youth
-                in the year 1974 and duly got registered by government charity
-                Act in the year 1976. By the grace of Almighty Allah the
+                RABODI FRIENDS' CIRCLE EDUCATION SOCIETY commenced by the name
+                RABODI FRIENDS' CIRCLE formed by small group of like minded
+                youth in the year 1974 and duly got registered by government
+                charity Act in the year 1976. By the grace of Almighty Allah the
                 organisation performed multi number of socially welfare
                 programmes gradually by which we achieved great confidence local
                 illiterate and educationally backward inhabitants of the area
@@ -68,20 +68,20 @@ const Abouttrust = () => {
           </div>
           <div className="bat-shadow-cntr-at-sbt-su-sectoa">
             <p className="para-at-ashadew-sect-pad-ejk">
-              RABODI FRIENDS CIRCLE PRE-PRIMARY SCHOOL on the eve of our
+              RABODI FRIENDS' CIRCLE PRE-PRIMARY SCHOOL on the eve of our
               organaisation silver jubilee year i.e on 20/06/1999 we celebrated
               inaugural ceremony of our estimed school by the auspicious hand of
               the well known educationist Dr. Ishaque Jimkhanawala by organizing
               a grand function. It is Almighty Allah who showerd his mercy and
               kindness and bestowed upon us that we could succeed in attaining
-              our goal . we changed our trust name as RABODI FRIENDS CIRCLE
+              our goal . we changed our trust name as RABODI FRIENDS' CIRCLE
               EDUCATION SOCIETY with effect from 08/07/2007 and all the members
-              of managing committee as trustees. Rabodi friends circle education
-              societys goal is to enable our students to add value to other
-              lives hence the society has resolved to continue to impart quality
-              education and promote national integration which will help theme
-              in retaining moral and cultural heritage and groom as respectable
-              and valuable citizens of our community and country.
+              of managing committee as trustees. Rabodi friends' circle
+              education societys goal is to enable our students to add value to
+              other lives hence the society has resolved to continue to impart
+              quality education and promote national integration which will help
+              theme in retaining moral and cultural heritage and groom as
+              respectable and valuable citizens of our community and country.
             </p>
           </div>
           <div className="flx-of-abt-trust-apra-secrion-srjek flx-direction-area-ds">
@@ -99,17 +99,17 @@ const Abouttrust = () => {
                 education. He himself is SSC pass but has a aim to find out
                 student from his school who will be future for our community .
                 Rabodi Friends’ Circle Education Society’s , Shafi Burondkar
-                Pre-Primary & Primary Urdu School and Rabodi Friends Circle Urdu
-                High School. Mr. Abdul Majeed Burondkar is Chairman of Building
-                construction committee and also the school was constructed by
-                him in 2003 till 5 th floor, school now has a strength of 700
-                student. which are served with Free Education. School is
-                constructed with all amenities, Computer laboratory, Science
-                laboratory, Library , Staff room, Air conditioned , E- learning
-                room , Principal cabin, Head Miss Cabin & Management room. Mr.
-                Abdul Majeed Burondkar became President of Rabodi Friends’
-                Circle Education Society on 08/07/2007 and till date he is the
-                President of the Society.
+                Pre-Primary & Primary Urdu School and Rabodi Friends' Circle
+                Urdu High School. Mr. Abdul Majeed Burondkar is Chairman of
+                Building construction committee and also the school was
+                constructed by him in 2003 till 5 th floor, school now has a
+                strength of 700 student. which are served with Free Education.
+                School is constructed with all amenities, Computer laboratory,
+                Science laboratory, Library , Staff room, Air conditioned , E-
+                learning room , Principal cabin, Head Miss Cabin & Management
+                room. Mr. Abdul Majeed Burondkar became President of Rabodi
+                Friends’ Circle Education Society on 08/07/2007 and till date he
+                is the President of the Society.
               </p>
             </div>
             <div>

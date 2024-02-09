@@ -128,7 +128,7 @@ const Facilities = () => {
                     platforms, but if you want to feel close to a world which
                     will take you away from the daily distractions and set you
                     free from the unwanted pollutants of the surroundings, books
-                    are your true friends who will accompany you till your
+                    are your true friends' who will accompany you till your
                     destination.
                   </p>
                 </div>

@@ -47,10 +47,10 @@ const Outribute = () => {
                 school. Established in 1974, under his visionary leadership, the
                 organization spearheaded numerous welfare, cultural,
                 educational, and national initiatives in Rabodi and its
-                surrounding areas. Rabodi Friends Circle, nurtured by his
+                surrounding areas. Rabodi Friends' Circle, nurtured by his
                 presidency, evolved into an esteemed educational society. Today,
                 it stands as a reliable institution known as Shafi Burondkar
-                Primary School and Rabodi Friends Circle High School. The
+                Primary School and Rabodi Friends' Circle High School. The
                 unwavering dedication of Mr. Javed Shaikh, along with the
                 invaluable partnership of Burondkar Sahib, played a pivotal role
                 in the school's growth and development. Mr. Javed Shaikh was a
