@@ -53,7 +53,7 @@ const Members = () => {
             <div className="ht-lne-insd-abt-sjhs"></div>
           </div>
           <h2 className="abt-sch-sect-hdr-at-dskj">Members</h2>
-          <p className="sendcd-para-at-abt-secnd-stiondlf">Members of School</p>
+          {/* <p className="sendcd-para-at-abt-secnd-stiondlf">Members of School</p> */}
           <div className="flx-in-images-of-teahers-st-akjs">
             <div className="cntr-a-dhjs-ewoiknxz-zsd">
               <div className="flx-in-for-responcve-view-only">
